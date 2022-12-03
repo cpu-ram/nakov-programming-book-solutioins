@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\bin\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.exe
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\bin\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.deps.json
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\bin\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.runtimeconfig.json
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\bin\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\bin\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.dll
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\bin\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.pdb
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\obj\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\obj\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\obj\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\obj\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.dll
+C:\Users\User\source\repos\05.07.00_GreatestOfFiveNumbers\obj\Debug\netcoreapp3.1\05.07.00_GreatestOfFiveNumbers.pdb

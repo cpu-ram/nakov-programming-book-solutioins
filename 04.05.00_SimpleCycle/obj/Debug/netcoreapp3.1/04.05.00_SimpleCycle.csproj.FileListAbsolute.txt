@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\04.05.00_SimpleCycle\bin\Debug\netcoreapp3.1\04.05.00_SimpleCycle.exe
+C:\Users\User\source\repos\04.05.00_SimpleCycle\bin\Debug\netcoreapp3.1\04.05.00_SimpleCycle.deps.json
+C:\Users\User\source\repos\04.05.00_SimpleCycle\bin\Debug\netcoreapp3.1\04.05.00_SimpleCycle.runtimeconfig.json
+C:\Users\User\source\repos\04.05.00_SimpleCycle\bin\Debug\netcoreapp3.1\04.05.00_SimpleCycle.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.05.00_SimpleCycle\bin\Debug\netcoreapp3.1\04.05.00_SimpleCycle.dll
+C:\Users\User\source\repos\04.05.00_SimpleCycle\bin\Debug\netcoreapp3.1\04.05.00_SimpleCycle.pdb
+C:\Users\User\source\repos\04.05.00_SimpleCycle\obj\Debug\netcoreapp3.1\04.05.00_SimpleCycle.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04.05.00_SimpleCycle\obj\Debug\netcoreapp3.1\04.05.00_SimpleCycle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.05.00_SimpleCycle\obj\Debug\netcoreapp3.1\04.05.00_SimpleCycle.AssemblyInfo.cs
+C:\Users\User\source\repos\04.05.00_SimpleCycle\obj\Debug\netcoreapp3.1\04.05.00_SimpleCycle.dll
+C:\Users\User\source\repos\04.05.00_SimpleCycle\obj\Debug\netcoreapp3.1\04.05.00_SimpleCycle.pdb

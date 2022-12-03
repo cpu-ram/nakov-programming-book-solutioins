@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/bin/Debug/net5.0/WordOrderReverser.deps.json
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/bin/Debug/net5.0/WordOrderReverser.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/bin/Debug/net5.0/WordOrderReverser.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/bin/Debug/net5.0/WordOrderReverser.dll
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/bin/Debug/net5.0/ref/WordOrderReverser.dll
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/bin/Debug/net5.0/WordOrderReverser.pdb
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/obj/Debug/net5.0/WordOrderReverser.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/obj/Debug/net5.0/WordOrderReverser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/obj/Debug/net5.0/WordOrderReverser.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/obj/Debug/net5.0/WordOrderReverser.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/obj/Debug/net5.0/WordOrderReverser.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/obj/Debug/net5.0/WordOrderReverser.dll
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/obj/Debug/net5.0/ref/WordOrderReverser.dll
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/obj/Debug/net5.0/WordOrderReverser.pdb
+/Users/petrstepanenko/Projects/13.14_ReversingWordOrder/WordOrderReverser/WordOrderReverser/obj/Debug/net5.0/WordOrderReverser.genruntimeconfig.cache

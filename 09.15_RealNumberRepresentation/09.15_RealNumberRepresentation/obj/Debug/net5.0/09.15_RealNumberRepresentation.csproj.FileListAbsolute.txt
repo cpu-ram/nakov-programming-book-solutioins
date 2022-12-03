@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/obj/Debug/net5.0/09.15_RealNumberRepresentation.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/obj/Debug/net5.0/09.15_RealNumberRepresentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/obj/Debug/net5.0/09.15_RealNumberRepresentation.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/obj/Debug/net5.0/09.15_RealNumberRepresentation.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/obj/Debug/net5.0/09.15_RealNumberRepresentation.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/bin/Debug/net5.0/09.15_RealNumberRepresentation.deps.json
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/bin/Debug/net5.0/09.15_RealNumberRepresentation.runtimeconfig.json
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/bin/Debug/net5.0/09.15_RealNumberRepresentation.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/bin/Debug/net5.0/09.15_RealNumberRepresentation.dll
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/bin/Debug/net5.0/ref/09.15_RealNumberRepresentation.dll
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/bin/Debug/net5.0/09.15_RealNumberRepresentation.pdb
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/obj/Debug/net5.0/09.15_RealNumberRepresentation.dll
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/obj/Debug/net5.0/ref/09.15_RealNumberRepresentation.dll
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/obj/Debug/net5.0/09.15_RealNumberRepresentation.pdb
+/Users/petrstepanenko/Projects/09.15_RealNumberRepresentation/09.15_RealNumberRepresentation/obj/Debug/net5.0/09.15_RealNumberRepresentation.genruntimeconfig.cache

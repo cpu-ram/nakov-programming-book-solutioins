@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\bin\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.exe
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\bin\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.deps.json
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\bin\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.runtimeconfig.json
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\bin\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\bin\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.dll
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\bin\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.pdb
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\obj\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\obj\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\obj\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.AssemblyInfo.cs
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\obj\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.dll
+C:\Users\User\source\repos\03.09.00_CoordinatesWithinTwoFiguresCheck\obj\Debug\netcoreapp3.1\03.09.00_CoordinatesWithinTwoFiguresCheck.pdb

@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/bin/Debug/net5.0/10.07_FindPermutations.deps.json
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/bin/Debug/net5.0/10.07_FindPermutations.runtimeconfig.json
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/bin/Debug/net5.0/10.07_FindPermutations.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/bin/Debug/net5.0/10.07_FindPermutations.dll
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/bin/Debug/net5.0/ref/10.07_FindPermutations.dll
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/bin/Debug/net5.0/10.07_FindPermutations.pdb
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/obj/Debug/net5.0/10.07_FindPermutations.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/obj/Debug/net5.0/10.07_FindPermutations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/obj/Debug/net5.0/10.07_FindPermutations.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/obj/Debug/net5.0/10.07_FindPermutations.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/obj/Debug/net5.0/10.07_FindPermutations.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/obj/Debug/net5.0/10.07_FindPermutations.dll
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/obj/Debug/net5.0/ref/10.07_FindPermutations.dll
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/obj/Debug/net5.0/10.07_FindPermutations.pdb
+/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/obj/Debug/net5.0/10.07_FindPermutations.genruntimeconfig.cache

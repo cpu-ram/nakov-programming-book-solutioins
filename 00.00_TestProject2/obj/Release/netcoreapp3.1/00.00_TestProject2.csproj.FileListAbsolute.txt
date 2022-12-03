@@ -1,0 +1,11 @@
+/Users/petrstepanenko/Projects/00.00_TestProject2/bin/Release/netcoreapp3.1/00.00_TestProject2.deps.json
+/Users/petrstepanenko/Projects/00.00_TestProject2/bin/Release/netcoreapp3.1/00.00_TestProject2.runtimeconfig.json
+/Users/petrstepanenko/Projects/00.00_TestProject2/bin/Release/netcoreapp3.1/00.00_TestProject2.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/00.00_TestProject2/bin/Release/netcoreapp3.1/00.00_TestProject2.dll
+/Users/petrstepanenko/Projects/00.00_TestProject2/bin/Release/netcoreapp3.1/00.00_TestProject2.pdb
+/Users/petrstepanenko/Projects/00.00_TestProject2/obj/Release/netcoreapp3.1/00.00_TestProject2.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/00.00_TestProject2/obj/Release/netcoreapp3.1/00.00_TestProject2.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/00.00_TestProject2/obj/Release/netcoreapp3.1/00.00_TestProject2.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/00.00_TestProject2/obj/Release/netcoreapp3.1/00.00_TestProject2.dll
+/Users/petrstepanenko/Projects/00.00_TestProject2/obj/Release/netcoreapp3.1/00.00_TestProject2.pdb
+/Users/petrstepanenko/Projects/00.00_TestProject2/obj/Release/netcoreapp3.1/00.00_TestProject2.genruntimeconfig.cache

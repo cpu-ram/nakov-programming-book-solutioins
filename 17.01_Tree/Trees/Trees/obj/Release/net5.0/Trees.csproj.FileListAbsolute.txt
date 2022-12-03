@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/bin/Release/net5.0/Trees.deps.json
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/bin/Release/net5.0/Trees.runtimeconfig.json
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/bin/Release/net5.0/Trees.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/bin/Release/net5.0/Trees.dll
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/bin/Release/net5.0/ref/Trees.dll
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/bin/Release/net5.0/Trees.pdb
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/obj/Release/net5.0/Trees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/obj/Release/net5.0/Trees.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/obj/Release/net5.0/Trees.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/obj/Release/net5.0/Trees.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/obj/Release/net5.0/Trees.dll
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/obj/Release/net5.0/ref/Trees.dll
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/obj/Release/net5.0/Trees.pdb
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/obj/Release/net5.0/Trees.genruntimeconfig.cache
+/Users/petrstepanenko/Projects/17.01_Tree/Trees/Trees/obj/Release/net5.0/Trees.csprojAssemblyReference.cache

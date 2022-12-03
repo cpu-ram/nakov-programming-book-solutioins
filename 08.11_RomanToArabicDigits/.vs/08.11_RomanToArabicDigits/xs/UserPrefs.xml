@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{AF63CCCC-2D97-4DA3-92B6-A10D66C47C1A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="08.11_RomanToArabicDigits/Program.cs">
+    <Files>
+      <File FileName="08.11_RomanToArabicDigits/Program.cs" Line="67" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>entryArr[i]</Value>
+          <Value>i</Value>
+          <Value>entry</Value>
+          <Value>tempString</Value>
+          <Value>dict</Value>
+          <Value>digitOrder</Value>
+          <Value>digit</Value>
+          <Value>digitString</Value>
+          <Value>tempString</Value>
+          <Value>digitThree</Value>
+          <Value>result</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.08.11__RomanToArabicDigits PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

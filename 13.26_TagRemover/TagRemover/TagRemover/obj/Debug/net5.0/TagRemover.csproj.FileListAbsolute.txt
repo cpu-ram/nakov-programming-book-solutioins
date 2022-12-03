@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/bin/Debug/net5.0/TagRemover.deps.json
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/bin/Debug/net5.0/TagRemover.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/bin/Debug/net5.0/TagRemover.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/bin/Debug/net5.0/TagRemover.dll
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/bin/Debug/net5.0/ref/TagRemover.dll
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/bin/Debug/net5.0/TagRemover.pdb
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/obj/Debug/net5.0/TagRemover.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/obj/Debug/net5.0/TagRemover.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/obj/Debug/net5.0/TagRemover.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/obj/Debug/net5.0/TagRemover.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/obj/Debug/net5.0/TagRemover.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/obj/Debug/net5.0/TagRemover.dll
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/obj/Debug/net5.0/ref/TagRemover.dll
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/obj/Debug/net5.0/TagRemover.pdb
+/Users/petrstepanenko/Projects/13.26_TagRemover/TagRemover/TagRemover/obj/Debug/net5.0/TagRemover.genruntimeconfig.cache

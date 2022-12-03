@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.04.00_PracticingCompositeFormatting", "04.04.00_PracticingCompositeFormatting.csproj", "{15817C78-A764-4D5C-9671-E7A028BABDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15817C78-A764-4D5C-9671-E7A028BABDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15817C78-A764-4D5C-9671-E7A028BABDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15817C78-A764-4D5C-9671-E7A028BABDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15817C78-A764-4D5C-9671-E7A028BABDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B4B0499-C47A-4996-8C46-AA1BC57CBB8D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\07.11_Find_A_Specified_Sum_Of_Elements\bin\Debug\netcoreapp3.1\07.11_Find_A_Specified_Sum_Of_Elements.exe
+C:\Users\User\source\repos\07.11_Find_A_Specified_Sum_Of_Elements\bin\Debug\netcoreapp3.1\07.11_Find_A_Specified_Sum_Of_Elements.deps.json
+C:\Users\User\source\repos\07.11_Find_A_Specified_Sum_Of_Elements\bin\Debug\netcoreapp3.1\07.11_Find_A_Specified_Sum_Of_Elements.runtimeconfig.json
+C:\Users\User\source\repos\07.11_Find_A_Specified_Sum_Of_Elements\bin\Debug\netcoreapp3.1\07.11_Find_A_Specified_Sum_Of_Elements.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.11_Find_A_Specified_Sum_Of_Elements\bin\Debug\netcoreapp3.1\07.11_Find_A_Specified_Sum_Of_Elements.dll
+C:\Users\User\source\repos\07.11_Find_A_Specified_Sum_Of_Elements\bin\Debug\netcoreapp3.1\07.11_Find_A_Specified_Sum_Of_Elements.pdb
+C:\Users\User\source\repos\07.11_Find_A_Specified_Sum_Of_Elements\obj\Debug\netcoreapp3.1\07.11_Find_A_Specified_Sum_Of_Elements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.11_Find_A_Specified_Sum_Of_Elements\obj\Debug\netcoreapp3.1\07.11_Find_A_Specified_Sum_Of_Elements.AssemblyInfo.cs
+C:\Users\User\source\repos\07.11_Find_A_Specified_Sum_Of_Elements\obj\Debug\netcoreapp3.1\07.11_Find_A_Specified_Sum_Of_Elements.dll
+C:\Users\User\source\repos\07.11_Find_A_Specified_Sum_Of_Elements\obj\Debug\netcoreapp3.1\07.11_Find_A_Specified_Sum_Of_Elements.pdb

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{6D5770DE-077A-4A51-B2A6-0C108B02E1D7}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03.14.00_Decimal_To_Hexadecimal_Conversion" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>i</Value>
+          <Value>j</Value>
+          <Value>varNames.Count</Value>
+          <Value>powers.Count</Value>
+          <Value>mononomialOne.VariableCount</Value>
+          <Value>mononomialOne.VariableCount</Value>
+          <Value>varNames</Value>
+          <Value>powers</Value>
+          <Value>coefficient</Value>
+          <Value>mononomialOne.VariableName[i]</Value>
+          <Value>mononomialOne</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.03.14.00__Decimal__To__Hexadecimal__Conversion PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

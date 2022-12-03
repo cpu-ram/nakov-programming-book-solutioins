@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/bin/Debug/net5.0/DateParser.deps.json
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/bin/Debug/net5.0/DateParser.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/bin/Debug/net5.0/DateParser.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/bin/Debug/net5.0/DateParser.dll
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/bin/Debug/net5.0/ref/DateParser.dll
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/bin/Debug/net5.0/DateParser.pdb
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/obj/Debug/net5.0/DateParser.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/obj/Debug/net5.0/DateParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/obj/Debug/net5.0/DateParser.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/obj/Debug/net5.0/DateParser.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/obj/Debug/net5.0/DateParser.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/obj/Debug/net5.0/DateParser.dll
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/obj/Debug/net5.0/ref/DateParser.dll
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/obj/Debug/net5.0/DateParser.pdb
+/Users/petrstepanenko/Projects/13.17_ParsingDatesFromConsole/DateParser/DateParser/obj/Debug/net5.0/DateParser.genruntimeconfig.cache

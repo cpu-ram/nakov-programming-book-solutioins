@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/ListTypes.deps.json
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/ListTypes.runtimeconfig.json
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/ListTypes.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/ListTypes.dll
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/ref/ListTypes.dll
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/ListTypes.pdb
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ListTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ListTypes.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ListTypes.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ListTypes.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ListTypes.dll
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ref/ListTypes.dll
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ListTypes.pdb
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ListTypes.genruntimeconfig.cache
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ListTypes.csprojAssemblyReference.cache

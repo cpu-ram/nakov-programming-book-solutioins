@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.09.00_CoordinatesWithinTwoFiguresCheck", "03.09.00_CoordinatesWithinTwoFiguresCheck.csproj", "{D2B5B1AB-0F0E-43DE-BDC6-0785754E7940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B5B1AB-0F0E-43DE-BDC6-0785754E7940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B5B1AB-0F0E-43DE-BDC6-0785754E7940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B5B1AB-0F0E-43DE-BDC6-0785754E7940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B5B1AB-0F0E-43DE-BDC6-0785754E7940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8789E14C-C5D5-466B-BE44-9ED413749F24}
+	EndGlobalSection
+EndGlobal

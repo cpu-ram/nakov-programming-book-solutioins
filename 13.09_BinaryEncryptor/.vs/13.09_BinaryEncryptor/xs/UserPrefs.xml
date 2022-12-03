@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{DCE89730-501A-4AB7-A232-3D1F6220A903}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="13.09_BinaryEncryptor/Program.cs">
+    <Files>
+      <File FileName="13.09_BinaryEncryptor/Program.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>resultArray</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.13.09__BinaryEncryptor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/Program.cs" relfile="13.09_BinaryEncryptor/Program.cs" line="39" column="17" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

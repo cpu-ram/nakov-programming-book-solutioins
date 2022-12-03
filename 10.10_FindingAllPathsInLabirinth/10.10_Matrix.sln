@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "10.10_FindingAllPathsInLabirinth\Matrix.csproj", "{A4C6F898-4EE0-4521-96AD-449F1FAC036C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4C6F898-4EE0-4521-96AD-449F1FAC036C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C6F898-4EE0-4521-96AD-449F1FAC036C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C6F898-4EE0-4521-96AD-449F1FAC036C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C6F898-4EE0-4521-96AD-449F1FAC036C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {149FACB1-98F0-477B-B88C-0A53F4779FCA}
+	EndGlobalSection
+EndGlobal

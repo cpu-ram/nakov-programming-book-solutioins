@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\bin\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.exe
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\bin\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.deps.json
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\bin\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.runtimeconfig.json
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\bin\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\bin\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.dll
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\bin\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.pdb
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\obj\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\obj\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\obj\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.AssemblyInfo.cs
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\obj\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.dll
+C:\Users\User\source\repos\06.17_Euclidian_algorithm\obj\Debug\netcoreapp3.1\06.17_Euclidian_algorithm.pdb

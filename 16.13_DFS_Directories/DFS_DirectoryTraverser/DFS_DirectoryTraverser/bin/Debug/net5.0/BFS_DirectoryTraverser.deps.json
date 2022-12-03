@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BFS_DirectoryTraverser/1.0.0": {
+        "runtime": {
+          "BFS_DirectoryTraverser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BFS_DirectoryTraverser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

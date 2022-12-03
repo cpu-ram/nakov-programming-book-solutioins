@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/bin/Debug/net5.0/MatrixEditor.deps.json
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/bin/Debug/net5.0/MatrixEditor.runtimeconfig.json
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/bin/Debug/net5.0/MatrixEditor.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/bin/Debug/net5.0/MatrixEditor.dll
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/bin/Debug/net5.0/ref/MatrixEditor.dll
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/bin/Debug/net5.0/MatrixEditor.pdb
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/obj/Debug/net5.0/MatrixEditor.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/obj/Debug/net5.0/MatrixEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/obj/Debug/net5.0/MatrixEditor.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/obj/Debug/net5.0/MatrixEditor.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/obj/Debug/net5.0/MatrixEditor.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/obj/Debug/net5.0/MatrixEditor.dll
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/obj/Debug/net5.0/ref/MatrixEditor.dll
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/obj/Debug/net5.0/MatrixEditor.pdb
+/Users/petrstepanenko/Projects/15.05_Matrices/Matrices/Matrices/obj/Debug/net5.0/MatrixEditor.genruntimeconfig.cache

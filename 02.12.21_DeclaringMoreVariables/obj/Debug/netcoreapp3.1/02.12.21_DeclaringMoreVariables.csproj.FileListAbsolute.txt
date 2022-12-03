@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\02.12.21_DeclaringMoreVariables\obj\Debug\netcoreapp3.1\02.12.21_DeclaringMoreVariables.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.12.21_DeclaringMoreVariables\obj\Debug\netcoreapp3.1\02.12.21_DeclaringMoreVariables.AssemblyInfo.cs
+C:\Users\User\source\repos\02.12.21_DeclaringMoreVariables\bin\Debug\netcoreapp3.1\02.12.21_DeclaringMoreVariables.exe
+C:\Users\User\source\repos\02.12.21_DeclaringMoreVariables\bin\Debug\netcoreapp3.1\02.12.21_DeclaringMoreVariables.deps.json
+C:\Users\User\source\repos\02.12.21_DeclaringMoreVariables\bin\Debug\netcoreapp3.1\02.12.21_DeclaringMoreVariables.runtimeconfig.json
+C:\Users\User\source\repos\02.12.21_DeclaringMoreVariables\bin\Debug\netcoreapp3.1\02.12.21_DeclaringMoreVariables.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.12.21_DeclaringMoreVariables\bin\Debug\netcoreapp3.1\02.12.21_DeclaringMoreVariables.dll
+C:\Users\User\source\repos\02.12.21_DeclaringMoreVariables\bin\Debug\netcoreapp3.1\02.12.21_DeclaringMoreVariables.pdb
+C:\Users\User\source\repos\02.12.21_DeclaringMoreVariables\obj\Debug\netcoreapp3.1\02.12.21_DeclaringMoreVariables.dll
+C:\Users\User\source\repos\02.12.21_DeclaringMoreVariables\obj\Debug\netcoreapp3.1\02.12.21_DeclaringMoreVariables.pdb

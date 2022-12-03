@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\bin\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.exe
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\bin\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.deps.json
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\bin\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.runtimeconfig.json
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\bin\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\bin\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.dll
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\bin\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.pdb
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\obj\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.csprojAssemblyReference.cache
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\obj\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\obj\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.AssemblyInfo.cs
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\obj\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.dll
+C:\Users\User\source\repos\07.02_Reading_and_comparing_arrays\obj\Debug\netcoreapp3.1\07.02_Reading_and_comparing_arrays.pdb

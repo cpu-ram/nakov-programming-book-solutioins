@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.15_String_To_Char_Indexes", "07.15_String_To_Char_Indexes.csproj", "{C170E70C-0536-4E76-9594-BB394C44911B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C170E70C-0536-4E76-9594-BB394C44911B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C170E70C-0536-4E76-9594-BB394C44911B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C170E70C-0536-4E76-9594-BB394C44911B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C170E70C-0536-4E76-9594-BB394C44911B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {135539A0-E2D5-4D51-95F3-F36B1335EAFD}
+	EndGlobalSection
+EndGlobal

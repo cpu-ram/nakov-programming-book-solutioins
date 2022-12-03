@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{170E2BD0-EAAD-4F43-849A-C9C9F91ECBFB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PolyndromeChecker/Program.cs">
+    <Files>
+      <File FileName="PolyndromeChecker/Program.cs" Line="38" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PalyndromeChecker" expanded="True">
+            <Node name="PalyndromeChecker" expanded="True">
+              <Node name="DateParser" expanded="True">
+                <Node name="StringEditor" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>words</Value>
+          <Value>text.Length</Value>
+          <Value>Convert.ToString(words[i])</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PalyndromeChecker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

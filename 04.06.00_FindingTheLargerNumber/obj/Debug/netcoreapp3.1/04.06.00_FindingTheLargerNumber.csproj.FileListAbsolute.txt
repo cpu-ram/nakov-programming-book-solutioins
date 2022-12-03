@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\04.06.00_FindingTheLargerNumber\bin\Debug\netcoreapp3.1\04.06.00_FindingTheLargerNumber.exe
+C:\Users\User\source\repos\04.06.00_FindingTheLargerNumber\bin\Debug\netcoreapp3.1\04.06.00_FindingTheLargerNumber.deps.json
+C:\Users\User\source\repos\04.06.00_FindingTheLargerNumber\bin\Debug\netcoreapp3.1\04.06.00_FindingTheLargerNumber.runtimeconfig.json
+C:\Users\User\source\repos\04.06.00_FindingTheLargerNumber\bin\Debug\netcoreapp3.1\04.06.00_FindingTheLargerNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.06.00_FindingTheLargerNumber\bin\Debug\netcoreapp3.1\04.06.00_FindingTheLargerNumber.dll
+C:\Users\User\source\repos\04.06.00_FindingTheLargerNumber\bin\Debug\netcoreapp3.1\04.06.00_FindingTheLargerNumber.pdb
+C:\Users\User\source\repos\04.06.00_FindingTheLargerNumber\obj\Debug\netcoreapp3.1\04.06.00_FindingTheLargerNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.06.00_FindingTheLargerNumber\obj\Debug\netcoreapp3.1\04.06.00_FindingTheLargerNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\04.06.00_FindingTheLargerNumber\obj\Debug\netcoreapp3.1\04.06.00_FindingTheLargerNumber.dll
+C:\Users\User\source\repos\04.06.00_FindingTheLargerNumber\obj\Debug\netcoreapp3.1\04.06.00_FindingTheLargerNumber.pdb

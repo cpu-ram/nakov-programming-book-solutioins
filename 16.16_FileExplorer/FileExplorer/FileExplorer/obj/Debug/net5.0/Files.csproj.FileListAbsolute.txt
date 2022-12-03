@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/obj/Debug/net5.0/Files.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/obj/Debug/net5.0/Files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/obj/Debug/net5.0/Files.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/obj/Debug/net5.0/Files.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/obj/Debug/net5.0/Files.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/bin/Debug/net5.0/Files.deps.json
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/bin/Debug/net5.0/Files.runtimeconfig.json
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/bin/Debug/net5.0/Files.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/bin/Debug/net5.0/Files.dll
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/bin/Debug/net5.0/ref/Files.dll
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/bin/Debug/net5.0/Files.pdb
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/obj/Debug/net5.0/Files.dll
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/obj/Debug/net5.0/ref/Files.dll
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/obj/Debug/net5.0/Files.pdb
+/Users/petrstepanenko/Projects/16.16_FileExplorer/FileExplorer/FileExplorer/obj/Debug/net5.0/Files.genruntimeconfig.cache

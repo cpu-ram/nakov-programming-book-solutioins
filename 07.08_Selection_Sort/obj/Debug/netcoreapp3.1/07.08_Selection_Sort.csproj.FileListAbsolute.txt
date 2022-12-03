@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\07.08_Selection_Sort\bin\Debug\netcoreapp3.1\07.08_Selection_Sort.exe
+C:\Users\User\source\repos\07.08_Selection_Sort\bin\Debug\netcoreapp3.1\07.08_Selection_Sort.deps.json
+C:\Users\User\source\repos\07.08_Selection_Sort\bin\Debug\netcoreapp3.1\07.08_Selection_Sort.runtimeconfig.json
+C:\Users\User\source\repos\07.08_Selection_Sort\bin\Debug\netcoreapp3.1\07.08_Selection_Sort.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.08_Selection_Sort\bin\Debug\netcoreapp3.1\07.08_Selection_Sort.dll
+C:\Users\User\source\repos\07.08_Selection_Sort\bin\Debug\netcoreapp3.1\07.08_Selection_Sort.pdb
+C:\Users\User\source\repos\07.08_Selection_Sort\obj\Debug\netcoreapp3.1\07.08_Selection_Sort.csprojAssemblyReference.cache
+C:\Users\User\source\repos\07.08_Selection_Sort\obj\Debug\netcoreapp3.1\07.08_Selection_Sort.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.08_Selection_Sort\obj\Debug\netcoreapp3.1\07.08_Selection_Sort.AssemblyInfo.cs
+C:\Users\User\source\repos\07.08_Selection_Sort\obj\Debug\netcoreapp3.1\07.08_Selection_Sort.dll
+C:\Users\User\source\repos\07.08_Selection_Sort\obj\Debug\netcoreapp3.1\07.08_Selection_Sort.pdb
+C:\Users\User\source\repos\07.08_Selection_Sort\obj\Debug\netcoreapp3.1\07.08_Selection_Sort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\07.08_Selection_Sort\obj\Debug\netcoreapp3.1\07.08_Selection_Sort.genruntimeconfig.cache

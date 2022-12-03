@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{81455ECB-CCDD-4A0C-822D-5B2DCB669021}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PriorityQueues/Test.cs">
+    <Files>
+      <File FileName="PriorityQueues/Program.cs" Line="9" Column="1" />
+      <File FileName="PriorityQueues/PriorityQueue.cs" Line="54" Column="1" />
+      <File FileName="PriorityQueues/Test.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PriorityQueues" expanded="True">
+            <Node name="PriorityQueues" expanded="True">
+              <Node name="Test.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>stringBuilder</Value>
+          <Value>this.Count</Value>
+          <Value>this.Count=this.openPositionID</Value>
+          <Value>this.occupiedPositions</Value>
+          <Value>this.values[0]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PriorityQueues PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/PriorityQueue.cs" relfile="PriorityQueues/PriorityQueue.cs" line="54" column="9" />
+      <Breakpoint file="/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/Test.cs" relfile="PriorityQueues/Test.cs" line="27" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

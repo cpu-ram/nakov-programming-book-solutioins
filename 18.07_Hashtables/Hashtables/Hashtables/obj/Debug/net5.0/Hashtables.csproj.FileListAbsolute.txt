@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/bin/Debug/net5.0/Hashtables.deps.json
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/bin/Debug/net5.0/Hashtables.runtimeconfig.json
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/bin/Debug/net5.0/Hashtables.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/bin/Debug/net5.0/Hashtables.dll
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/bin/Debug/net5.0/ref/Hashtables.dll
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/bin/Debug/net5.0/Hashtables.pdb
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.dll
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/obj/Debug/net5.0/ref/Hashtables.dll
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.pdb
+/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/obj/Debug/net5.0/Hashtables.genruntimeconfig.cache

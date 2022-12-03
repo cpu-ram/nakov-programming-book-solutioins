@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/bin/Debug/net5.0/10.08_FindSubsetWithAParticularSum.deps.json
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/bin/Debug/net5.0/10.08_FindSubsetWithAParticularSum.runtimeconfig.json
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/bin/Debug/net5.0/10.08_FindSubsetWithAParticularSum.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/bin/Debug/net5.0/10.08_FindSubsetWithAParticularSum.dll
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/bin/Debug/net5.0/ref/10.08_FindSubsetWithAParticularSum.dll
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/bin/Debug/net5.0/10.08_FindSubsetWithAParticularSum.pdb
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/obj/Debug/net5.0/10.08_FindSubsetWithAParticularSum.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/obj/Debug/net5.0/10.08_FindSubsetWithAParticularSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/obj/Debug/net5.0/10.08_FindSubsetWithAParticularSum.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/obj/Debug/net5.0/10.08_FindSubsetWithAParticularSum.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/obj/Debug/net5.0/10.08_FindSubsetWithAParticularSum.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/obj/Debug/net5.0/10.08_FindSubsetWithAParticularSum.dll
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/obj/Debug/net5.0/ref/10.08_FindSubsetWithAParticularSum.dll
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/obj/Debug/net5.0/10.08_FindSubsetWithAParticularSum.pdb
+/Users/petrstepanenko/Projects/10.08_FindSubsetWithAParticularSum/10.08_FindSubsetWithAParticularSum/obj/Debug/net5.0/10.08_FindSubsetWithAParticularSum.genruntimeconfig.cache

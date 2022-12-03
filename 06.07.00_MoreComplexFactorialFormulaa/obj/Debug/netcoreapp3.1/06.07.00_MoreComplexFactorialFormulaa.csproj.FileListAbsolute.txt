@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\bin\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.exe
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\bin\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.deps.json
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\bin\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.runtimeconfig.json
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\bin\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\bin\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.dll
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\bin\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.pdb
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\obj\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\obj\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\obj\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.AssemblyInfo.cs
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\obj\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.dll
+C:\Users\User\source\repos\06.07.00_MoreComplexFactorialFormulaa\obj\Debug\netcoreapp3.1\06.07.00_MoreComplexFactorialFormulaa.pdb

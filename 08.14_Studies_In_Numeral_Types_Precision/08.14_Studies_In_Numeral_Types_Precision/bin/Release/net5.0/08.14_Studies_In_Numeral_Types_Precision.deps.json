@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "08.14_Studies_In_Numeral_Types_Precision/1.0.0": {
+        "runtime": {
+          "08.14_Studies_In_Numeral_Types_Precision.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08.14_Studies_In_Numeral_Types_Precision/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

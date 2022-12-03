@@ -1,0 +1,14 @@
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/bin/Debug/net5.0/InterfaceExtensionPractice.deps.json
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/bin/Debug/net5.0/InterfaceExtensionPractice.runtimeconfig.json
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/bin/Debug/net5.0/InterfaceExtensionPractice.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/bin/Debug/net5.0/InterfaceExtensionPractice.dll
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/bin/Debug/net5.0/ref/InterfaceExtensionPractice.dll
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/bin/Debug/net5.0/InterfaceExtensionPractice.pdb
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/obj/Debug/net5.0/InterfaceExtensionPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/obj/Debug/net5.0/InterfaceExtensionPractice.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/obj/Debug/net5.0/InterfaceExtensionPractice.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/obj/Debug/net5.0/InterfaceExtensionPractice.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/obj/Debug/net5.0/InterfaceExtensionPractice.dll
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/obj/Debug/net5.0/ref/InterfaceExtensionPractice.dll
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/obj/Debug/net5.0/InterfaceExtensionPractice.pdb
+/Users/petrstepanenko/Projects/Ch22/ex2/InterfaceExtensionPractice/InterfaceExtensionPractice/obj/Debug/net5.0/InterfaceExtensionPractice.genruntimeconfig.cache

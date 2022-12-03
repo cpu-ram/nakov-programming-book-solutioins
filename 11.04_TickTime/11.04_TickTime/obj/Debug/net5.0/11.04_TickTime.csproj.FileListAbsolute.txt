@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/bin/Debug/net5.0/11.04_TickTime.deps.json
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/bin/Debug/net5.0/11.04_TickTime.runtimeconfig.json
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/bin/Debug/net5.0/11.04_TickTime.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/bin/Debug/net5.0/11.04_TickTime.dll
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/bin/Debug/net5.0/ref/11.04_TickTime.dll
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/bin/Debug/net5.0/11.04_TickTime.pdb
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/obj/Debug/net5.0/11.04_TickTime.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/obj/Debug/net5.0/11.04_TickTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/obj/Debug/net5.0/11.04_TickTime.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/obj/Debug/net5.0/11.04_TickTime.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/obj/Debug/net5.0/11.04_TickTime.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/obj/Debug/net5.0/11.04_TickTime.dll
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/obj/Debug/net5.0/ref/11.04_TickTime.dll
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/obj/Debug/net5.0/11.04_TickTime.pdb
+/Users/petrstepanenko/Projects/11.04_TickTime/11.04_TickTime/obj/Debug/net5.0/11.04_TickTime.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\06.05.00_FibonacciSum\obj\Debug\netcoreapp3.1\06.05.00_FibonacciSum.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06.05.00_FibonacciSum\obj\Debug\netcoreapp3.1\06.05.00_FibonacciSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.05.00_FibonacciSum\obj\Debug\netcoreapp3.1\06.05.00_FibonacciSum.AssemblyInfo.cs
+C:\Users\User\source\repos\06.05.00_FibonacciSum\bin\Debug\netcoreapp3.1\06.05.00_FibonacciSum.exe
+C:\Users\User\source\repos\06.05.00_FibonacciSum\bin\Debug\netcoreapp3.1\06.05.00_FibonacciSum.deps.json
+C:\Users\User\source\repos\06.05.00_FibonacciSum\bin\Debug\netcoreapp3.1\06.05.00_FibonacciSum.runtimeconfig.json
+C:\Users\User\source\repos\06.05.00_FibonacciSum\bin\Debug\netcoreapp3.1\06.05.00_FibonacciSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.05.00_FibonacciSum\bin\Debug\netcoreapp3.1\06.05.00_FibonacciSum.dll
+C:\Users\User\source\repos\06.05.00_FibonacciSum\bin\Debug\netcoreapp3.1\06.05.00_FibonacciSum.pdb
+C:\Users\User\source\repos\06.05.00_FibonacciSum\obj\Debug\netcoreapp3.1\06.05.00_FibonacciSum.dll
+C:\Users\User\source\repos\06.05.00_FibonacciSum\obj\Debug\netcoreapp3.1\06.05.00_FibonacciSum.pdb

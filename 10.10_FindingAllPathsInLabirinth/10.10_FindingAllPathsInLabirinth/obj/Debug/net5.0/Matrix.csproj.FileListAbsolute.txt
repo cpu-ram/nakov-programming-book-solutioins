@@ -1,0 +1,4 @@
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/Matrix.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/Matrix.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/Matrix.csproj.CoreCompileInputs.cache

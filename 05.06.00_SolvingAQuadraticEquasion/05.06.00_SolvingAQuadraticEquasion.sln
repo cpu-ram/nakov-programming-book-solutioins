@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.06.00_SolvingAQuadraticEquasion", "05.06.00_SolvingAQuadraticEquasion.csproj", "{FB31A455-D843-494D-A2FF-51243F231538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB31A455-D843-494D-A2FF-51243F231538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB31A455-D843-494D-A2FF-51243F231538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB31A455-D843-494D-A2FF-51243F231538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB31A455-D843-494D-A2FF-51243F231538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7362EF9D-789A-42EE-AA48-B83166D1618B}
+	EndGlobalSection
+EndGlobal

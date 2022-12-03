@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\03.04.00_Checking the third bit\bin\Debug\netcoreapp3.1\03.04.00_Checking the third bit.exe
+C:\Users\User\source\repos\03.04.00_Checking the third bit\bin\Debug\netcoreapp3.1\03.04.00_Checking the third bit.deps.json
+C:\Users\User\source\repos\03.04.00_Checking the third bit\bin\Debug\netcoreapp3.1\03.04.00_Checking the third bit.runtimeconfig.json
+C:\Users\User\source\repos\03.04.00_Checking the third bit\bin\Debug\netcoreapp3.1\03.04.00_Checking the third bit.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.04.00_Checking the third bit\bin\Debug\netcoreapp3.1\03.04.00_Checking the third bit.dll
+C:\Users\User\source\repos\03.04.00_Checking the third bit\bin\Debug\netcoreapp3.1\03.04.00_Checking the third bit.pdb
+C:\Users\User\source\repos\03.04.00_Checking the third bit\obj\Debug\netcoreapp3.1\03.04.00_Checking the third bit.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.04.00_Checking the third bit\obj\Debug\netcoreapp3.1\03.04.00_Checking the third bit.AssemblyInfo.cs
+C:\Users\User\source\repos\03.04.00_Checking the third bit\obj\Debug\netcoreapp3.1\03.04.00_Checking the third bit.dll
+C:\Users\User\source\repos\03.04.00_Checking the third bit\obj\Debug\netcoreapp3.1\03.04.00_Checking the third bit.pdb

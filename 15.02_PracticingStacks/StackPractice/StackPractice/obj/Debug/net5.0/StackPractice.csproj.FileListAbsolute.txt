@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/bin/Debug/net5.0/StackPractice.deps.json
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/bin/Debug/net5.0/StackPractice.runtimeconfig.json
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/bin/Debug/net5.0/StackPractice.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/bin/Debug/net5.0/StackPractice.dll
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/bin/Debug/net5.0/ref/StackPractice.dll
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/bin/Debug/net5.0/StackPractice.pdb
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/obj/Debug/net5.0/StackPractice.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/obj/Debug/net5.0/StackPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/obj/Debug/net5.0/StackPractice.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/obj/Debug/net5.0/StackPractice.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/obj/Debug/net5.0/StackPractice.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/obj/Debug/net5.0/StackPractice.dll
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/obj/Debug/net5.0/ref/StackPractice.dll
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/obj/Debug/net5.0/StackPractice.pdb
+/Users/petrstepanenko/Projects/15.02_PracticingStacks/StackPractice/StackPractice/obj/Debug/net5.0/StackPractice.genruntimeconfig.cache

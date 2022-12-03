@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{65EED95B-6DF5-48EB-A4B8-EB9034DEE142}|Default">
+  <MonoDevelop.Ide.ItemProperties.Graphs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Graphs/Graph/Graph.cs">
+    <Files>
+      <File FileName="Graphs/Graph/Graph.cs" Line="7" Column="23" />
+      <File FileName="Graphs/Graph/SimpleGraph.cs" Line="1" Column="1" />
+      <File FileName="Graphs/Map/Map.cs" />
+      <File FileName="Graphs/Test.cs" Line="101" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Graphs" expanded="True">
+            <Node name="Graphs" expanded="True">
+              <Node name="Graph" expanded="True">
+                <Node name="Graph.cs" selected="True" />
+              </Node>
+              <Node name="Map" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>resultDistance</Value>
+          <Value>verticeToPathDictionary[idTwo]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/Test.cs" relfile="Graphs/Test.cs" line="136" column="17" />
+      <Breakpoint file="/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/Graph/Graph.cs" relfile="Graphs/Graph/Graph.cs" line="501" column="21" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

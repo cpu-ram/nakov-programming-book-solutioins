@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "07.23_All_Combinations_Of_Elements_Of_An_Array/1.0.0": {
+        "runtime": {
+          "07.23_All_Combinations_Of_Elements_Of_An_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07.23_All_Combinations_Of_Elements_Of_An_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

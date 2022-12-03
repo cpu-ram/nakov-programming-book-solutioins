@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C4CC50B3-E741-4F84-AA22-6C58EB24892E}|Default">
+  <MonoDevelop.Ide.ItemProperties.10.07__FindPermutations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.07_FindPermutations/Program.cs">
+    <Files>
+      <File FileName="10.07_FindPermutations/Program.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>permutation</Value>
+          <Value>usedNumbers</Value>
+          <Value>permIndex</Value>
+          <Value>n</Value>
+          <Value>i</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/Program.cs" relfile="10.07_FindPermutations/Program.cs" line="8" column="9" />
+      <Breakpoint file="/Users/petrstepanenko/Projects/10.07_FindPermutations/10.07_FindPermutations/Program.cs" relfile="10.07_FindPermutations/Program.cs" line="36" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\bin\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.exe
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\bin\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.deps.json
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\bin\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.runtimeconfig.json
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\bin\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\bin\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.dll
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\bin\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.pdb
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\obj\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\obj\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\obj\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.AssemblyInfo.cs
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\obj\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.dll
+C:\Users\User\source\repos\03.08.00_CoordinatesWithinACircleBool\obj\Debug\netcoreapp3.1\03.08.00_CoordinatesWithinACircleBool.pdb

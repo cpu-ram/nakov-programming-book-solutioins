@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/DoubleLinkedList.deps.json
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/DoubleLinkedList.runtimeconfig.json
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/DoubleLinkedList.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/DoubleLinkedList.dll
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/ref/DoubleLinkedList.dll
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/bin/Debug/net5.0/DoubleLinkedList.pdb
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.dll
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/ref/DoubleLinkedList.dll
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.pdb
+/Users/petrstepanenko/Projects/16.11_DoublyLinkedList/DoubleLinkedList/DoubleLinkedList/obj/Debug/net5.0/DoubleLinkedList.genruntimeconfig.cache

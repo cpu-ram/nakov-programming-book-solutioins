@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "06.17_Printing_a_matrix/1.0.0": {
+        "runtime": {
+          "06.17_Printing_a_matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06.17_Printing_a_matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

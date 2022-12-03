@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/bin/Debug/net5.0/PriorityQueues.deps.json
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/bin/Debug/net5.0/PriorityQueues.runtimeconfig.json
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/bin/Debug/net5.0/PriorityQueues.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/bin/Debug/net5.0/PriorityQueues.dll
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/bin/Debug/net5.0/ref/PriorityQueues.dll
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/bin/Debug/net5.0/PriorityQueues.pdb
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/obj/Debug/net5.0/PriorityQueues.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/obj/Debug/net5.0/PriorityQueues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/obj/Debug/net5.0/PriorityQueues.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/obj/Debug/net5.0/PriorityQueues.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/obj/Debug/net5.0/PriorityQueues.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/obj/Debug/net5.0/PriorityQueues.dll
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/obj/Debug/net5.0/ref/PriorityQueues.dll
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/obj/Debug/net5.0/PriorityQueues.pdb
+/Users/petrstepanenko/Projects/18.03_PriorityQueue/PriorityQueues/PriorityQueues/obj/Debug/net5.0/PriorityQueues.genruntimeconfig.cache

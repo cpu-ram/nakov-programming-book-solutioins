@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DB17ABE2-AFE0-4668-B25D-A6BE6AD87513}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceExtensionPractice/Program.cs">
+    <Files>
+      <File FileName="InterfaceExtensionPractice/Program.cs" Line="15" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfaceExtensionPractice" expanded="True" selected="True">
+            <Node name="InterfaceExtensionPractice" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>currentElement</Value>
+          <Value>currentElementDecimal</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InterfaceExtensionPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

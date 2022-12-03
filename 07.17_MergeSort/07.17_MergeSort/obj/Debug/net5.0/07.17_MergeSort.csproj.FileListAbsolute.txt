@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/bin/Debug/net5.0/07.17_MergeSort.deps.json
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/bin/Debug/net5.0/07.17_MergeSort.runtimeconfig.json
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/bin/Debug/net5.0/07.17_MergeSort.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/bin/Debug/net5.0/07.17_MergeSort.dll
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/bin/Debug/net5.0/ref/07.17_MergeSort.dll
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/bin/Debug/net5.0/07.17_MergeSort.pdb
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/obj/Debug/net5.0/07.17_MergeSort.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/obj/Debug/net5.0/07.17_MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/obj/Debug/net5.0/07.17_MergeSort.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/obj/Debug/net5.0/07.17_MergeSort.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/obj/Debug/net5.0/07.17_MergeSort.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/obj/Debug/net5.0/07.17_MergeSort.dll
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/obj/Debug/net5.0/ref/07.17_MergeSort.dll
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/obj/Debug/net5.0/07.17_MergeSort.pdb
+/Users/petrstepanenko/Projects/07.17_MergeSort/07.17_MergeSort/obj/Debug/net5.0/07.17_MergeSort.genruntimeconfig.cache

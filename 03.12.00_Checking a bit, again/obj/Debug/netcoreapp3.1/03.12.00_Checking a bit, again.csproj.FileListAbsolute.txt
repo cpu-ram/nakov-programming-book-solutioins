@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\bin\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.exe
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\bin\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.deps.json
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\bin\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.runtimeconfig.json
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\bin\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\bin\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.dll
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\bin\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.pdb
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\obj\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\obj\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\obj\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.AssemblyInfo.cs
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\obj\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.dll
+C:\Users\User\source\repos\03.12.00_Checking a bit, again\obj\Debug\netcoreapp3.1\03.12.00_Checking a bit, again.pdb

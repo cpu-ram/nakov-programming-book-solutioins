@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/bin/Debug/net5.0/Queues.deps.json
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/bin/Debug/net5.0/Queues.runtimeconfig.json
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/bin/Debug/net5.0/Queues.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/bin/Debug/net5.0/Queues.dll
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/bin/Debug/net5.0/ref/Queues.dll
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/bin/Debug/net5.0/Queues.pdb
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/obj/Debug/net5.0/Queues.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/obj/Debug/net5.0/Queues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/obj/Debug/net5.0/Queues.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/obj/Debug/net5.0/Queues.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/obj/Debug/net5.0/Queues.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/obj/Debug/net5.0/Queues.dll
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/obj/Debug/net5.0/ref/Queues.dll
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/obj/Debug/net5.0/Queues.pdb
+/Users/petrstepanenko/Projects/16.09_PracticingQueues/Queues/Queues/obj/Debug/net5.0/Queues.genruntimeconfig.cache

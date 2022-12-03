@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\bin\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.exe
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\bin\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.deps.json
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\bin\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.runtimeconfig.json
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\bin\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\bin\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.dll
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\bin\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.pdb
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\obj\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\obj\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\obj\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\obj\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.dll
+C:\Users\User\source\repos\06.08.00_CatalanNumbers\obj\Debug\netcoreapp3.1\06.08.00_CatalanNumbers.pdb

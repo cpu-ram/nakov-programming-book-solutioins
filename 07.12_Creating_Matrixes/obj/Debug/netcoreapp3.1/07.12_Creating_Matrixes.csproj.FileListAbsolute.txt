@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\07.12_Creating_Matrixes\bin\Debug\netcoreapp3.1\07.12_Creating_Matrixes.exe
+C:\Users\User\source\repos\07.12_Creating_Matrixes\bin\Debug\netcoreapp3.1\07.12_Creating_Matrixes.deps.json
+C:\Users\User\source\repos\07.12_Creating_Matrixes\bin\Debug\netcoreapp3.1\07.12_Creating_Matrixes.runtimeconfig.json
+C:\Users\User\source\repos\07.12_Creating_Matrixes\bin\Debug\netcoreapp3.1\07.12_Creating_Matrixes.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.12_Creating_Matrixes\bin\Debug\netcoreapp3.1\07.12_Creating_Matrixes.dll
+C:\Users\User\source\repos\07.12_Creating_Matrixes\bin\Debug\netcoreapp3.1\07.12_Creating_Matrixes.pdb
+C:\Users\User\source\repos\07.12_Creating_Matrixes\obj\Debug\netcoreapp3.1\07.12_Creating_Matrixes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\07.12_Creating_Matrixes\obj\Debug\netcoreapp3.1\07.12_Creating_Matrixes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.12_Creating_Matrixes\obj\Debug\netcoreapp3.1\07.12_Creating_Matrixes.AssemblyInfo.cs
+C:\Users\User\source\repos\07.12_Creating_Matrixes\obj\Debug\netcoreapp3.1\07.12_Creating_Matrixes.dll
+C:\Users\User\source\repos\07.12_Creating_Matrixes\obj\Debug\netcoreapp3.1\07.12_Creating_Matrixes.pdb

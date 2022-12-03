@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/bin/Debug/net5.0/10.10_FindingAllPathsInLabirinth.deps.json
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/bin/Debug/net5.0/10.10_FindingAllPathsInLabirinth.runtimeconfig.json
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/bin/Debug/net5.0/10.10_FindingAllPathsInLabirinth.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/bin/Debug/net5.0/10.10_FindingAllPathsInLabirinth.dll
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/bin/Debug/net5.0/ref/10.10_FindingAllPathsInLabirinth.dll
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/bin/Debug/net5.0/10.10_FindingAllPathsInLabirinth.pdb
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/10.10_FindingAllPathsInLabirinth.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/10.10_FindingAllPathsInLabirinth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/10.10_FindingAllPathsInLabirinth.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/10.10_FindingAllPathsInLabirinth.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/10.10_FindingAllPathsInLabirinth.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/10.10_FindingAllPathsInLabirinth.dll
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/ref/10.10_FindingAllPathsInLabirinth.dll
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/10.10_FindingAllPathsInLabirinth.pdb
+/Users/petrstepanenko/Projects/10.10_FindingAllPathsInLabirinth/10.10_FindingAllPathsInLabirinth/obj/Debug/net5.0/10.10_FindingAllPathsInLabirinth.genruntimeconfig.cache

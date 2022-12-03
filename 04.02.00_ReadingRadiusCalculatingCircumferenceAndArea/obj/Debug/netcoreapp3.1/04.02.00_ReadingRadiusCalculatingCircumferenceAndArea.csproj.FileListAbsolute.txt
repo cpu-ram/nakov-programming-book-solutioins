@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea\bin\Debug\netcoreapp3.1\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea.exe
+C:\Users\User\source\repos\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea\bin\Debug\netcoreapp3.1\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea.deps.json
+C:\Users\User\source\repos\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea\bin\Debug\netcoreapp3.1\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea.runtimeconfig.json
+C:\Users\User\source\repos\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea\bin\Debug\netcoreapp3.1\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea\bin\Debug\netcoreapp3.1\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea.dll
+C:\Users\User\source\repos\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea\bin\Debug\netcoreapp3.1\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea.pdb
+C:\Users\User\source\repos\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea\obj\Debug\netcoreapp3.1\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea\obj\Debug\netcoreapp3.1\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea.AssemblyInfo.cs
+C:\Users\User\source\repos\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea\obj\Debug\netcoreapp3.1\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea.dll
+C:\Users\User\source\repos\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea\obj\Debug\netcoreapp3.1\04.02.00_ReadingRadiusCalculatingCircumferenceAndArea.pdb

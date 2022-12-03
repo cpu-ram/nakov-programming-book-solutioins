@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\bin\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).exe
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\bin\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).deps.json
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\bin\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).runtimeconfig.json
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\bin\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).runtimeconfig.dev.json
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\bin\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).dll
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\bin\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).pdb
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\obj\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).csprojAssemblyReference.cache
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\obj\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\obj\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).AssemblyInfo.cs
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\obj\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).dll
+C:\Users\User\source\repos\02.10.00_CharacterTriangle (with Unicode)\obj\Debug\netcoreapp3.1\02.10.00_CharacterTriangle (with Unicode).pdb

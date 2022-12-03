@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\bin\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.exe
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\bin\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.deps.json
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\bin\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.runtimeconfig.json
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\bin\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\bin\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.dll
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\bin\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.pdb
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\obj\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\obj\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\obj\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.AssemblyInfo.cs
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\obj\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.dll
+C:\Users\User\source\repos\03.01.00_Checking_If_Odd\obj\Debug\netcoreapp3.1\03.01.00_Checking_If_Odd.pdb

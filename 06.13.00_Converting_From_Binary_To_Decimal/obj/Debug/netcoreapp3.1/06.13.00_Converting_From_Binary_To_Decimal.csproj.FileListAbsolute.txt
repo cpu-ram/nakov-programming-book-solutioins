@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\bin\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.exe
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\bin\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.deps.json
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\bin\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.runtimeconfig.json
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\bin\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\bin\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.dll
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\bin\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.pdb
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\obj\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\obj\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\obj\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.AssemblyInfo.cs
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\obj\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.dll
+C:\Users\User\source\repos\06.13.00_Converting_From_Binary_To_Decimal\obj\Debug\netcoreapp3.1\06.13.00_Converting_From_Binary_To_Decimal.pdb

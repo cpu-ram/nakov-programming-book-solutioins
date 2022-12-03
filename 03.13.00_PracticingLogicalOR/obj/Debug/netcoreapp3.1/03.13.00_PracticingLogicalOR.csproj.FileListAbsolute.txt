@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\bin\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.exe
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\bin\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.deps.json
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\bin\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.runtimeconfig.json
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\bin\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\bin\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.dll
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\bin\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.pdb
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\obj\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\obj\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\obj\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.AssemblyInfo.cs
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\obj\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.dll
+C:\Users\User\source\repos\03.13.00_PracticingLogicalOR\obj\Debug\netcoreapp3.1\03.13.00_PracticingLogicalOR.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\04.10.00_Read,Cycle,Print\bin\Debug\netcoreapp3.1\04.10.00_Read,Cycle,Print.exe
+C:\Users\User\source\repos\04.10.00_Read,Cycle,Print\bin\Debug\netcoreapp3.1\04.10.00_Read,Cycle,Print.deps.json
+C:\Users\User\source\repos\04.10.00_Read,Cycle,Print\bin\Debug\netcoreapp3.1\04.10.00_Read,Cycle,Print.runtimeconfig.json
+C:\Users\User\source\repos\04.10.00_Read,Cycle,Print\bin\Debug\netcoreapp3.1\04.10.00_Read,Cycle,Print.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.10.00_Read,Cycle,Print\bin\Debug\netcoreapp3.1\04.10.00_Read,Cycle,Print.dll
+C:\Users\User\source\repos\04.10.00_Read,Cycle,Print\bin\Debug\netcoreapp3.1\04.10.00_Read,Cycle,Print.pdb
+C:\Users\User\source\repos\04.10.00_Read,Cycle,Print\obj\Debug\netcoreapp3.1\04.10.00_Read,Cycle,Print.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.10.00_Read,Cycle,Print\obj\Debug\netcoreapp3.1\04.10.00_Read,Cycle,Print.AssemblyInfo.cs
+C:\Users\User\source\repos\04.10.00_Read,Cycle,Print\obj\Debug\netcoreapp3.1\04.10.00_Read,Cycle,Print.dll
+C:\Users\User\source\repos\04.10.00_Read,Cycle,Print\obj\Debug\netcoreapp3.1\04.10.00_Read,Cycle,Print.pdb

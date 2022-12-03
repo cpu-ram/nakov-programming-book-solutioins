@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/bin/Debug/net5.0/13.05_SearchingInsideString.deps.json
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/bin/Debug/net5.0/13.05_SearchingInsideString.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/bin/Debug/net5.0/13.05_SearchingInsideString.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/bin/Debug/net5.0/13.05_SearchingInsideString.dll
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/bin/Debug/net5.0/ref/13.05_SearchingInsideString.dll
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/bin/Debug/net5.0/13.05_SearchingInsideString.pdb
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/obj/Debug/net5.0/13.05_SearchingInsideString.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/obj/Debug/net5.0/13.05_SearchingInsideString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/obj/Debug/net5.0/13.05_SearchingInsideString.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/obj/Debug/net5.0/13.05_SearchingInsideString.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/obj/Debug/net5.0/13.05_SearchingInsideString.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/obj/Debug/net5.0/13.05_SearchingInsideString.dll
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/obj/Debug/net5.0/ref/13.05_SearchingInsideString.dll
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/obj/Debug/net5.0/13.05_SearchingInsideString.pdb
+/Users/petrstepanenko/Projects/13.05_SearchingInsideString/13.05_SearchingInsideString/obj/Debug/net5.0/13.05_SearchingInsideString.genruntimeconfig.cache

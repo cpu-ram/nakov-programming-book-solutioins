@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/bin/Debug/net5.0/SubstringExtension.deps.json
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/bin/Debug/net5.0/SubstringExtension.runtimeconfig.json
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/bin/Debug/net5.0/SubstringExtension.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/bin/Debug/net5.0/SubstringExtension.dll
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/bin/Debug/net5.0/ref/SubstringExtension.dll
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/bin/Debug/net5.0/SubstringExtension.pdb
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/obj/Debug/net5.0/SubstringExtension.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/obj/Debug/net5.0/SubstringExtension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/obj/Debug/net5.0/SubstringExtension.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/obj/Debug/net5.0/SubstringExtension.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/obj/Debug/net5.0/SubstringExtension.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/obj/Debug/net5.0/SubstringExtension.dll
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/obj/Debug/net5.0/ref/SubstringExtension.dll
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/obj/Debug/net5.0/SubstringExtension.pdb
+/Users/petrstepanenko/Projects/Ch22/ex1/SubstringExtension/SubstringExtension/obj/Debug/net5.0/SubstringExtension.genruntimeconfig.cache

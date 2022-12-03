@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\bin\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.exe
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\bin\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.deps.json
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\bin\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.runtimeconfig.json
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\bin\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\bin\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.dll
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\bin\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.pdb
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\obj\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\obj\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\obj\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.AssemblyInfo.cs
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\obj\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.dll
+C:\Users\User\source\repos\05.01.00_SImple_If_Program\obj\Debug\netcoreapp3.1\05.01.00_SImple_If_Program.pdb

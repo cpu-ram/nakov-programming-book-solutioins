@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\06.17_Printing_a_matrix\bin\Debug\netcoreapp3.1\06.17_Printing_a_matrix.exe
+C:\Users\User\source\repos\06.17_Printing_a_matrix\bin\Debug\netcoreapp3.1\06.17_Printing_a_matrix.deps.json
+C:\Users\User\source\repos\06.17_Printing_a_matrix\bin\Debug\netcoreapp3.1\06.17_Printing_a_matrix.runtimeconfig.json
+C:\Users\User\source\repos\06.17_Printing_a_matrix\bin\Debug\netcoreapp3.1\06.17_Printing_a_matrix.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.17_Printing_a_matrix\bin\Debug\netcoreapp3.1\06.17_Printing_a_matrix.dll
+C:\Users\User\source\repos\06.17_Printing_a_matrix\bin\Debug\netcoreapp3.1\06.17_Printing_a_matrix.pdb
+C:\Users\User\source\repos\06.17_Printing_a_matrix\obj\Debug\netcoreapp3.1\06.17_Printing_a_matrix.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06.17_Printing_a_matrix\obj\Debug\netcoreapp3.1\06.17_Printing_a_matrix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.17_Printing_a_matrix\obj\Debug\netcoreapp3.1\06.17_Printing_a_matrix.AssemblyInfo.cs
+C:\Users\User\source\repos\06.17_Printing_a_matrix\obj\Debug\netcoreapp3.1\06.17_Printing_a_matrix.dll
+C:\Users\User\source\repos\06.17_Printing_a_matrix\obj\Debug\netcoreapp3.1\06.17_Printing_a_matrix.pdb

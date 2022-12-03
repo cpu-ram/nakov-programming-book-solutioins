@@ -1,0 +1,10 @@
+C:\Users\Lynn\source\repos\03.00_Formatted output\bin\Debug\netcoreapp3.1\03.00_Formatted output.exe
+C:\Users\Lynn\source\repos\03.00_Formatted output\bin\Debug\netcoreapp3.1\03.00_Formatted output.deps.json
+C:\Users\Lynn\source\repos\03.00_Formatted output\bin\Debug\netcoreapp3.1\03.00_Formatted output.runtimeconfig.json
+C:\Users\Lynn\source\repos\03.00_Formatted output\bin\Debug\netcoreapp3.1\03.00_Formatted output.runtimeconfig.dev.json
+C:\Users\Lynn\source\repos\03.00_Formatted output\bin\Debug\netcoreapp3.1\03.00_Formatted output.dll
+C:\Users\Lynn\source\repos\03.00_Formatted output\bin\Debug\netcoreapp3.1\03.00_Formatted output.pdb
+C:\Users\Lynn\source\repos\03.00_Formatted output\obj\Debug\netcoreapp3.1\03.00_Formatted output.AssemblyInfoInputs.cache
+C:\Users\Lynn\source\repos\03.00_Formatted output\obj\Debug\netcoreapp3.1\03.00_Formatted output.AssemblyInfo.cs
+C:\Users\Lynn\source\repos\03.00_Formatted output\obj\Debug\netcoreapp3.1\03.00_Formatted output.dll
+C:\Users\Lynn\source\repos\03.00_Formatted output\obj\Debug\netcoreapp3.1\03.00_Formatted output.pdb

@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/bin/Debug/net5.0/08.11_RomanToArabicDigits.deps.json
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/bin/Debug/net5.0/08.11_RomanToArabicDigits.runtimeconfig.json
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/bin/Debug/net5.0/08.11_RomanToArabicDigits.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/bin/Debug/net5.0/08.11_RomanToArabicDigits.dll
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/bin/Debug/net5.0/ref/08.11_RomanToArabicDigits.dll
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/bin/Debug/net5.0/08.11_RomanToArabicDigits.pdb
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/obj/Debug/net5.0/08.11_RomanToArabicDigits.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/obj/Debug/net5.0/08.11_RomanToArabicDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/obj/Debug/net5.0/08.11_RomanToArabicDigits.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/obj/Debug/net5.0/08.11_RomanToArabicDigits.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/obj/Debug/net5.0/08.11_RomanToArabicDigits.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/obj/Debug/net5.0/08.11_RomanToArabicDigits.dll
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/obj/Debug/net5.0/ref/08.11_RomanToArabicDigits.dll
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/obj/Debug/net5.0/08.11_RomanToArabicDigits.pdb
+/Users/petrstepanenko/Projects/08.11_RomanToArabicDigits/08.11_RomanToArabicDigits/obj/Debug/net5.0/08.11_RomanToArabicDigits.genruntimeconfig.cache

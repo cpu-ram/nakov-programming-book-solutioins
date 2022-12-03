@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\bin\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.exe
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\bin\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.deps.json
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\bin\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.runtimeconfig.json
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\bin\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\bin\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.dll
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\bin\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.pdb
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\obj\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\obj\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\obj\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.AssemblyInfo.cs
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\obj\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.dll
+C:\Users\User\source\repos\03.03.00_Checking a digit of a number\obj\Debug\netcoreapp3.1\03.03.00_Checking a digit of a number.pdb

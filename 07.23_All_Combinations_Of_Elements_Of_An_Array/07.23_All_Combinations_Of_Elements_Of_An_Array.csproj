@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_07._23_All_Combinations_Of_Elements_Of_An_Array</RootNamespace>
+  </PropertyGroup>
+
+</Project>

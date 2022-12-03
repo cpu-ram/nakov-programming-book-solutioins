@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/bin/Debug/net5.0/RegexEditor.deps.json
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/bin/Debug/net5.0/RegexEditor.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/bin/Debug/net5.0/RegexEditor.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/bin/Debug/net5.0/RegexEditor.dll
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/bin/Debug/net5.0/ref/RegexEditor.dll
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/bin/Debug/net5.0/RegexEditor.pdb
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/obj/Debug/net5.0/RegexEditor.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/obj/Debug/net5.0/RegexEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/obj/Debug/net5.0/RegexEditor.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/obj/Debug/net5.0/RegexEditor.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/obj/Debug/net5.0/RegexEditor.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/obj/Debug/net5.0/RegexEditor.dll
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/obj/Debug/net5.0/ref/RegexEditor.dll
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/obj/Debug/net5.0/RegexEditor.pdb
+/Users/petrstepanenko/Projects/13.16_UsingComplexRegex/RegexEditor/RegexEditor/obj/Debug/net5.0/RegexEditor.genruntimeconfig.cache

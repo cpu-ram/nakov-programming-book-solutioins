@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\bin\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.exe
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\bin\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.deps.json
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\bin\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.runtimeconfig.json
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\bin\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\bin\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.dll
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\bin\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.pdb
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\obj\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.csprojAssemblyReference.cache
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\obj\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\obj\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.AssemblyInfo.cs
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\obj\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.dll
+C:\Users\User\source\repos\07.22_Extracting_an_increasing_subset\obj\Debug\netcoreapp3.1\07.22_Extracting_an_increasing_subset.pdb

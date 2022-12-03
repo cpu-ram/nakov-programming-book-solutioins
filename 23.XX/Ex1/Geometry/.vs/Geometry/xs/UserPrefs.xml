@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{6315447A-5DA3-42A3-95D5-6AF55432C87A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Geometry/Test.cs">
+    <Files>
+      <File FileName="Geometry/Program.cs" Line="6" Column="6" />
+      <File FileName="Geometry/Plane.cs" Line="196" Column="1" />
+      <File FileName="Geometry/Point.cs" Line="29" Column="10" />
+      <File FileName="Geometry/Test.cs" Line="12" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Geometry" expanded="True">
+            <Node name="Geometry" expanded="True">
+              <Node name="Test.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Points</Value>
+          <Value>i</Value>
+          <Value>medianAxes</Value>
+          <Value>xCenterItemBoundaries</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Geometry PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/petrstepanenko/Projects/Ch23/Ex1/Geometry/Geometry/Test.cs" relfile="Geometry/Test.cs" line="19" column="13" />
+      <Breakpoint file="/Users/petrstepanenko/Projects/Ch23/Ex1/Geometry/Geometry/DiscretePlane.cs" relfile="Geometry/DiscretePlane.cs" line="87" column="13" />
+      <Breakpoint file="/Users/petrstepanenko/Projects/Ch23/Ex1/Geometry/Geometry/DiscretePlane.cs" relfile="Geometry/DiscretePlane.cs" line="100" column="13" />
+      <Breakpoint file="/Users/petrstepanenko/Projects/Ch23/Ex1/Geometry/Geometry/DiscretePlane.cs" relfile="Geometry/DiscretePlane.cs" line="94" column="17" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

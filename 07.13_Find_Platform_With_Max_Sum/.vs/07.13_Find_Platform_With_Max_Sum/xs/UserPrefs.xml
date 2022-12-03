@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{168529B5-86EE-445F-9595-16FA475FFD1A}|Default">
+  <MonoDevelop.Ide.ItemProperties.07.13__Find__Platform__With__Max__Sum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="38" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="07.13_Find_Platform_With_Max_Sum" expanded="True">
+            <Node name="07.13_Find_Platform_With_Max_Sum" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>tempString</Value>
+          <Value>readerTwo</Value>
+          <Value>writerTwo</Value>
+          <Value>tempString==null</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

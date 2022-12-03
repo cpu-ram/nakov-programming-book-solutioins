@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/obj/Debug/net5.0/13.04_SplittingTextByBackslash.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/obj/Debug/net5.0/13.04_SplittingTextByBackslash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/obj/Debug/net5.0/13.04_SplittingTextByBackslash.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/obj/Debug/net5.0/13.04_SplittingTextByBackslash.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/obj/Debug/net5.0/13.04_SplittingTextByBackslash.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/bin/Debug/net5.0/13.04_SplittingTextByBackslash.deps.json
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/bin/Debug/net5.0/13.04_SplittingTextByBackslash.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/bin/Debug/net5.0/13.04_SplittingTextByBackslash.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/bin/Debug/net5.0/13.04_SplittingTextByBackslash.dll
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/bin/Debug/net5.0/ref/13.04_SplittingTextByBackslash.dll
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/bin/Debug/net5.0/13.04_SplittingTextByBackslash.pdb
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/obj/Debug/net5.0/13.04_SplittingTextByBackslash.dll
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/obj/Debug/net5.0/ref/13.04_SplittingTextByBackslash.dll
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/obj/Debug/net5.0/13.04_SplittingTextByBackslash.pdb
+/Users/petrstepanenko/Projects/13.04_SplittingTextByBackslash/13.04_SplittingTextByBackslash/obj/Debug/net5.0/13.04_SplittingTextByBackslash.genruntimeconfig.cache

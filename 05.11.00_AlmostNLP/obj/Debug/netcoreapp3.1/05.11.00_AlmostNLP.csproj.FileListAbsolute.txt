@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\05.11.00_AlmostNLP\bin\Debug\netcoreapp3.1\05.11.00_AlmostNLP.exe
+C:\Users\User\source\repos\05.11.00_AlmostNLP\bin\Debug\netcoreapp3.1\05.11.00_AlmostNLP.deps.json
+C:\Users\User\source\repos\05.11.00_AlmostNLP\bin\Debug\netcoreapp3.1\05.11.00_AlmostNLP.runtimeconfig.json
+C:\Users\User\source\repos\05.11.00_AlmostNLP\bin\Debug\netcoreapp3.1\05.11.00_AlmostNLP.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.11.00_AlmostNLP\bin\Debug\netcoreapp3.1\05.11.00_AlmostNLP.dll
+C:\Users\User\source\repos\05.11.00_AlmostNLP\bin\Debug\netcoreapp3.1\05.11.00_AlmostNLP.pdb
+C:\Users\User\source\repos\05.11.00_AlmostNLP\obj\Debug\netcoreapp3.1\05.11.00_AlmostNLP.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05.11.00_AlmostNLP\obj\Debug\netcoreapp3.1\05.11.00_AlmostNLP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.11.00_AlmostNLP\obj\Debug\netcoreapp3.1\05.11.00_AlmostNLP.AssemblyInfo.cs
+C:\Users\User\source\repos\05.11.00_AlmostNLP\obj\Debug\netcoreapp3.1\05.11.00_AlmostNLP.dll
+C:\Users\User\source\repos\05.11.00_AlmostNLP\obj\Debug\netcoreapp3.1\05.11.00_AlmostNLP.pdb

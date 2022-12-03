@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{80079393-3F9A-4B48-9557-18E3B41E7CC9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RemovingOddNumberElements/Program.cs">
+    <Files>
+      <File FileName="RemovingOddNumberElements/Program.cs" Line="12" Column="42" />
+      <File FileName="RemovingOddNumberElements/JDictionary/Program.cs" Line="197" Column="62" />
+      <File FileName="RemovingOddNumberElements/JDictionary/JDictionary.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RemovingOddNumberElements" expanded="True">
+            <Node name="RemovingOddNumberElements" expanded="True">
+              <Node name="JDictionary" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>occurencesTable</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RemovingOddNumberElements PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

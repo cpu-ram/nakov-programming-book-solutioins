@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/obj/Debug/net5.0/10.04_AllCombinationsMoreComplex.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/obj/Debug/net5.0/10.04_AllCombinationsMoreComplex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/obj/Debug/net5.0/10.04_AllCombinationsMoreComplex.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/obj/Debug/net5.0/10.04_AllCombinationsMoreComplex.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/obj/Debug/net5.0/10.04_AllCombinationsMoreComplex.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/bin/Debug/net5.0/10.04_AllCombinationsMoreComplex.deps.json
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/bin/Debug/net5.0/10.04_AllCombinationsMoreComplex.runtimeconfig.json
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/bin/Debug/net5.0/10.04_AllCombinationsMoreComplex.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/bin/Debug/net5.0/10.04_AllCombinationsMoreComplex.dll
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/bin/Debug/net5.0/ref/10.04_AllCombinationsMoreComplex.dll
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/bin/Debug/net5.0/10.04_AllCombinationsMoreComplex.pdb
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/obj/Debug/net5.0/10.04_AllCombinationsMoreComplex.dll
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/obj/Debug/net5.0/ref/10.04_AllCombinationsMoreComplex.dll
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/obj/Debug/net5.0/10.04_AllCombinationsMoreComplex.pdb
+/Users/petrstepanenko/Projects/10.04_AllCombinationsMoreComplex/10.04_AllCombinationsMoreComplex/obj/Debug/net5.0/10.04_AllCombinationsMoreComplex.genruntimeconfig.cache

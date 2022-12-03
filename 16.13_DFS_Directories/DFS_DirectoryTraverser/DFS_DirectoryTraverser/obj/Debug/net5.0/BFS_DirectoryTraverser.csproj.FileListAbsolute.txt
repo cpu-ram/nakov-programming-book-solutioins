@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/obj/Debug/net5.0/BFS_DirectoryTraverser.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/obj/Debug/net5.0/BFS_DirectoryTraverser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/obj/Debug/net5.0/BFS_DirectoryTraverser.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/obj/Debug/net5.0/BFS_DirectoryTraverser.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/obj/Debug/net5.0/BFS_DirectoryTraverser.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/bin/Debug/net5.0/BFS_DirectoryTraverser.deps.json
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/bin/Debug/net5.0/BFS_DirectoryTraverser.runtimeconfig.json
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/bin/Debug/net5.0/BFS_DirectoryTraverser.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/bin/Debug/net5.0/BFS_DirectoryTraverser.dll
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/bin/Debug/net5.0/ref/BFS_DirectoryTraverser.dll
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/bin/Debug/net5.0/BFS_DirectoryTraverser.pdb
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/obj/Debug/net5.0/BFS_DirectoryTraverser.dll
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/obj/Debug/net5.0/ref/BFS_DirectoryTraverser.dll
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/obj/Debug/net5.0/BFS_DirectoryTraverser.pdb
+/Users/petrstepanenko/Projects/16.13_DFS_Directories/DFS_DirectoryTraverser/DFS_DirectoryTraverser/obj/Debug/net5.0/BFS_DirectoryTraverser.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\05.09.00_All_Combinations\bin\Debug\netcoreapp3.1\05.09.00_All_Combinations.exe
+C:\Users\User\source\repos\05.09.00_All_Combinations\bin\Debug\netcoreapp3.1\05.09.00_All_Combinations.deps.json
+C:\Users\User\source\repos\05.09.00_All_Combinations\bin\Debug\netcoreapp3.1\05.09.00_All_Combinations.runtimeconfig.json
+C:\Users\User\source\repos\05.09.00_All_Combinations\bin\Debug\netcoreapp3.1\05.09.00_All_Combinations.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.09.00_All_Combinations\bin\Debug\netcoreapp3.1\05.09.00_All_Combinations.dll
+C:\Users\User\source\repos\05.09.00_All_Combinations\bin\Debug\netcoreapp3.1\05.09.00_All_Combinations.pdb
+C:\Users\User\source\repos\05.09.00_All_Combinations\obj\Debug\netcoreapp3.1\05.09.00_All_Combinations.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05.09.00_All_Combinations\obj\Debug\netcoreapp3.1\05.09.00_All_Combinations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.09.00_All_Combinations\obj\Debug\netcoreapp3.1\05.09.00_All_Combinations.AssemblyInfo.cs
+C:\Users\User\source\repos\05.09.00_All_Combinations\obj\Debug\netcoreapp3.1\05.09.00_All_Combinations.dll
+C:\Users\User\source\repos\05.09.00_All_Combinations\obj\Debug\netcoreapp3.1\05.09.00_All_Combinations.pdb

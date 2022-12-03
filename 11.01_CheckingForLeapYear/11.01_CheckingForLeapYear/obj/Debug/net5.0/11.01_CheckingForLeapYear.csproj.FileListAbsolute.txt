@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/bin/Debug/net5.0/11.01_CheckingForLeapYear.deps.json
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/bin/Debug/net5.0/11.01_CheckingForLeapYear.runtimeconfig.json
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/bin/Debug/net5.0/11.01_CheckingForLeapYear.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/bin/Debug/net5.0/11.01_CheckingForLeapYear.dll
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/bin/Debug/net5.0/ref/11.01_CheckingForLeapYear.dll
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/bin/Debug/net5.0/11.01_CheckingForLeapYear.pdb
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/obj/Debug/net5.0/11.01_CheckingForLeapYear.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/obj/Debug/net5.0/11.01_CheckingForLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/obj/Debug/net5.0/11.01_CheckingForLeapYear.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/obj/Debug/net5.0/11.01_CheckingForLeapYear.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/obj/Debug/net5.0/11.01_CheckingForLeapYear.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/obj/Debug/net5.0/11.01_CheckingForLeapYear.dll
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/obj/Debug/net5.0/ref/11.01_CheckingForLeapYear.dll
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/obj/Debug/net5.0/11.01_CheckingForLeapYear.pdb
+/Users/petrstepanenko/Projects/11.01_CheckingForLeapYear/11.01_CheckingForLeapYear/obj/Debug/net5.0/11.01_CheckingForLeapYear.genruntimeconfig.cache

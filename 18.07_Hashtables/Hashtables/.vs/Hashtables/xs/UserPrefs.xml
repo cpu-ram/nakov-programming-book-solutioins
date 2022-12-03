@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{55955397-DABA-4F72-8B15-36E1D161CAE2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hashtables/HashTable.cs">
+    <Files>
+      <File FileName="Hashtables/Program.cs" Line="9" Column="34" />
+      <File FileName="Hashtables/HashTable.cs" Line="99" Column="5" />
+      <File FileName="Hashtables/Test.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hashtables" expanded="True" selected="True">
+            <Node name="Hashtables" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>this.table</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/HashTable.cs" relfile="Hashtables/HashTable.cs" line="99" column="21" />
+      <Breakpoint file="/Users/petrstepanenko/Projects/18.07_Hashtables/Hashtables/Hashtables/HashTable.cs" relfile="Hashtables/HashTable.cs" line="100" column="21" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Hashtables PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

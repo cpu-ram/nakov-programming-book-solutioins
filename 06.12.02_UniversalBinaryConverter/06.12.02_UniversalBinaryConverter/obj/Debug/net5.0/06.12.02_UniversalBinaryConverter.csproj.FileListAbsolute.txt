@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/bin/Debug/net5.0/06.12.02_UniversalBinaryConverter.deps.json
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/bin/Debug/net5.0/06.12.02_UniversalBinaryConverter.runtimeconfig.json
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/bin/Debug/net5.0/06.12.02_UniversalBinaryConverter.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/bin/Debug/net5.0/06.12.02_UniversalBinaryConverter.dll
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/bin/Debug/net5.0/ref/06.12.02_UniversalBinaryConverter.dll
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/bin/Debug/net5.0/06.12.02_UniversalBinaryConverter.pdb
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/obj/Debug/net5.0/06.12.02_UniversalBinaryConverter.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/obj/Debug/net5.0/06.12.02_UniversalBinaryConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/obj/Debug/net5.0/06.12.02_UniversalBinaryConverter.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/obj/Debug/net5.0/06.12.02_UniversalBinaryConverter.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/obj/Debug/net5.0/06.12.02_UniversalBinaryConverter.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/obj/Debug/net5.0/06.12.02_UniversalBinaryConverter.dll
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/obj/Debug/net5.0/ref/06.12.02_UniversalBinaryConverter.dll
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/obj/Debug/net5.0/06.12.02_UniversalBinaryConverter.pdb
+/Users/petrstepanenko/Projects/06.12.02_UniversalBinaryConverter/06.12.02_UniversalBinaryConverter/obj/Debug/net5.0/06.12.02_UniversalBinaryConverter.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/bin/Debug/net5.0/13.03_CheckForCorrectParentheses.deps.json
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/bin/Debug/net5.0/13.03_CheckForCorrectParentheses.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/bin/Debug/net5.0/13.03_CheckForCorrectParentheses.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/bin/Debug/net5.0/13.03_CheckForCorrectParentheses.dll
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/bin/Debug/net5.0/ref/13.03_CheckForCorrectParentheses.dll
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/bin/Debug/net5.0/13.03_CheckForCorrectParentheses.pdb
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/obj/Debug/net5.0/13.03_CheckForCorrectParentheses.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/obj/Debug/net5.0/13.03_CheckForCorrectParentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/obj/Debug/net5.0/13.03_CheckForCorrectParentheses.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/obj/Debug/net5.0/13.03_CheckForCorrectParentheses.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/obj/Debug/net5.0/13.03_CheckForCorrectParentheses.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/obj/Debug/net5.0/13.03_CheckForCorrectParentheses.dll
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/obj/Debug/net5.0/ref/13.03_CheckForCorrectParentheses.dll
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/obj/Debug/net5.0/13.03_CheckForCorrectParentheses.pdb
+/Users/petrstepanenko/Projects/13.03_CheckForCorrectParentheses/13.03_CheckForCorrectParentheses/obj/Debug/net5.0/13.03_CheckForCorrectParentheses.genruntimeconfig.cache

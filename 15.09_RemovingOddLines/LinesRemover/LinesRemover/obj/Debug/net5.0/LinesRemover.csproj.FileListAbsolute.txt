@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/bin/Debug/net5.0/LinesRemover.deps.json
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/bin/Debug/net5.0/LinesRemover.runtimeconfig.json
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/bin/Debug/net5.0/LinesRemover.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/bin/Debug/net5.0/LinesRemover.dll
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/bin/Debug/net5.0/ref/LinesRemover.dll
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/bin/Debug/net5.0/LinesRemover.pdb
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/obj/Debug/net5.0/LinesRemover.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/obj/Debug/net5.0/LinesRemover.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/obj/Debug/net5.0/LinesRemover.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/obj/Debug/net5.0/LinesRemover.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/obj/Debug/net5.0/LinesRemover.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/obj/Debug/net5.0/LinesRemover.dll
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/obj/Debug/net5.0/ref/LinesRemover.dll
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/obj/Debug/net5.0/LinesRemover.pdb
+/Users/petrstepanenko/Projects/15.09_RemovingOddLines/LinesRemover/LinesRemover/obj/Debug/net5.0/LinesRemover.genruntimeconfig.cache

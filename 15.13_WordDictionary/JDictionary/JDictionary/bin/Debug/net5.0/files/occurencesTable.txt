@@ -1,0 +1,7 @@
+we: 7
+you: 3
+he: 4
+she: 2
+boy: 1
+girl: 1
+

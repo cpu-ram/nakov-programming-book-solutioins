@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.02.00_Boolean_Division_Check", "03.02.00_Boolean_Division_Check.csproj", "{0E128E6E-3781-477A-842A-C408D29417B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E128E6E-3781-477A-842A-C408D29417B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E128E6E-3781-477A-842A-C408D29417B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E128E6E-3781-477A-842A-C408D29417B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E128E6E-3781-477A-842A-C408D29417B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3478B14E-9813-49FA-8C94-4C8990F25D9F}
+	EndGlobalSection
+EndGlobal

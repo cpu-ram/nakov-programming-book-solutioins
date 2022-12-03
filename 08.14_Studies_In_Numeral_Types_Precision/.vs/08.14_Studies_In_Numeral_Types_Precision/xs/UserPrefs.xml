@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{204E87D6-98B4-4A7E-AB78-45458AB4E034}|Default">
+  <MonoDevelop.Ide.ItemProperties.08.14__Studies__In__Numeral__Types__Precision PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="08.14_Studies_In_Numeral_Types_Precision/Program.cs">
+    <Files>
+      <File FileName="08.14_Studies_In_Numeral_Types_Precision/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="08.14_Studies_In_Numeral_Types_Precision" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>i</Value>
+          <Value>j</Value>
+          <Value>varNames.Count</Value>
+          <Value>powers.Count</Value>
+          <Value>mononomialOne.VariableCount</Value>
+          <Value>mononomialOne.VariableCount</Value>
+          <Value>varNames</Value>
+          <Value>powers</Value>
+          <Value>coefficient</Value>
+          <Value>mononomialOne.VariableName[i]</Value>
+          <Value>mononomialOne</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+C:\Users\Lynn\source\repos\06.00_DateTime output\obj\Debug\netcoreapp3.1\05_ComplexStringWithCycles.csprojAssemblyReference.cache
+C:\Users\Lynn\source\repos\06.00_DateTime output\obj\Debug\netcoreapp3.1\05_ComplexStringWithCycles.AssemblyInfoInputs.cache
+C:\Users\Lynn\source\repos\06.00_DateTime output\obj\Debug\netcoreapp3.1\05_ComplexStringWithCycles.AssemblyInfo.cs
+C:\Users\Lynn\source\repos\06.00_DateTime output\bin\Debug\netcoreapp3.1\05_ComplexStringWithCycles.exe
+C:\Users\Lynn\source\repos\06.00_DateTime output\bin\Debug\netcoreapp3.1\05_ComplexStringWithCycles.deps.json
+C:\Users\Lynn\source\repos\06.00_DateTime output\bin\Debug\netcoreapp3.1\05_ComplexStringWithCycles.runtimeconfig.json
+C:\Users\Lynn\source\repos\06.00_DateTime output\bin\Debug\netcoreapp3.1\05_ComplexStringWithCycles.runtimeconfig.dev.json
+C:\Users\Lynn\source\repos\06.00_DateTime output\bin\Debug\netcoreapp3.1\05_ComplexStringWithCycles.dll
+C:\Users\Lynn\source\repos\06.00_DateTime output\bin\Debug\netcoreapp3.1\05_ComplexStringWithCycles.pdb
+C:\Users\Lynn\source\repos\06.00_DateTime output\obj\Debug\netcoreapp3.1\05_ComplexStringWithCycles.dll
+C:\Users\Lynn\source\repos\06.00_DateTime output\obj\Debug\netcoreapp3.1\05_ComplexStringWithCycles.pdb

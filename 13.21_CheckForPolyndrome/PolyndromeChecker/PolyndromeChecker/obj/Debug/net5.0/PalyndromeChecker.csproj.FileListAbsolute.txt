@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/bin/Debug/net5.0/PalyndromeChecker.deps.json
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/bin/Debug/net5.0/PalyndromeChecker.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/bin/Debug/net5.0/PalyndromeChecker.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/bin/Debug/net5.0/PalyndromeChecker.dll
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/bin/Debug/net5.0/ref/PalyndromeChecker.dll
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/bin/Debug/net5.0/PalyndromeChecker.pdb
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/obj/Debug/net5.0/PalyndromeChecker.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/obj/Debug/net5.0/PalyndromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/obj/Debug/net5.0/PalyndromeChecker.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/obj/Debug/net5.0/PalyndromeChecker.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/obj/Debug/net5.0/PalyndromeChecker.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/obj/Debug/net5.0/PalyndromeChecker.dll
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/obj/Debug/net5.0/ref/PalyndromeChecker.dll
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/obj/Debug/net5.0/PalyndromeChecker.pdb
+/Users/petrstepanenko/Projects/13.21_CheckForPolyndrome/PolyndromeChecker/PolyndromeChecker/obj/Debug/net5.0/PalyndromeChecker.genruntimeconfig.cache

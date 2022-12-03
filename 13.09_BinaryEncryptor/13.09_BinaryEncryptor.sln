@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.09_BinaryEncryptor", "13.09_BinaryEncryptor\13.09_BinaryEncryptor.csproj", "{DCE89730-501A-4AB7-A232-3D1F6220A903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE89730-501A-4AB7-A232-3D1F6220A903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE89730-501A-4AB7-A232-3D1F6220A903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE89730-501A-4AB7-A232-3D1F6220A903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE89730-501A-4AB7-A232-3D1F6220A903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A47B943C-F612-4413-8F23-E411679F258D}
+	EndGlobalSection
+EndGlobal

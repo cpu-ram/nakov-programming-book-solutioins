@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5E989F18-7D79-4BB4-9415-B8FF1A8D844B}|Default">
+  <MonoDevelop.Ide.ItemProperties.11.06__CalculatingAreaOfTriangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="11.06_CalculatingAreaOfTriangle/Program.cs">
+    <Files>
+      <File FileName="11.06_CalculatingAreaOfTriangle/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>area</Value>
+          <Value>a</Value>
+          <Value>b</Value>
+          <Value>c</Value>
+          <Value>Math.Pow(a,2d)</Value>
+          <Value>Math.Pow(x,2d)</Value>
+          <Value>x</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/Program.cs" relfile="11.06_CalculatingAreaOfTriangle/Program.cs" line="21" column="13" />
+      <Breakpoint file="/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/Program.cs" relfile="11.06_CalculatingAreaOfTriangle/Program.cs" line="22" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

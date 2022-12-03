@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{E6D17975-6C71-405D-B308-3E36B2CEE2C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="13.03_CheckForCorrectParentheses/Program.cs">
+    <Files>
+      <File FileName="13.03_CheckForCorrectParentheses/Program.cs" Line="39" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="13.03_CheckForCorrectParentheses" expanded="True">
+            <Node name="13.03_CheckForCorrectParentheses" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="13.03_CheckForCorrectParentheses" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>i</Value>
+          <Value>stringBuilder.Length</Value>
+          <Value>counter</Value>
+          <Value>stringBuilder[i]</Value>
+          <Value>stringBuilder[i].Equals(Convert.ToChar("("))</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.13.03__CheckForCorrectParentheses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

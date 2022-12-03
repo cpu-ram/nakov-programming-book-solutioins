@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\obj\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\obj\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\obj\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.AssemblyInfo.cs
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\bin\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.exe
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\bin\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.deps.json
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\bin\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.runtimeconfig.json
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\bin\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\bin\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.dll
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\bin\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.pdb
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\obj\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.dll
+C:\Users\User\source\repos\03.02.00_Boolean_Division_Check\obj\Debug\netcoreapp3.1\03.02.00_Boolean_Division_Check.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\06.04.00_CompoundCycle\bin\Debug\netcoreapp3.1\06.04.00_CompoundCycle.exe
+C:\Users\User\source\repos\06.04.00_CompoundCycle\bin\Debug\netcoreapp3.1\06.04.00_CompoundCycle.deps.json
+C:\Users\User\source\repos\06.04.00_CompoundCycle\bin\Debug\netcoreapp3.1\06.04.00_CompoundCycle.runtimeconfig.json
+C:\Users\User\source\repos\06.04.00_CompoundCycle\bin\Debug\netcoreapp3.1\06.04.00_CompoundCycle.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.04.00_CompoundCycle\bin\Debug\netcoreapp3.1\06.04.00_CompoundCycle.dll
+C:\Users\User\source\repos\06.04.00_CompoundCycle\bin\Debug\netcoreapp3.1\06.04.00_CompoundCycle.pdb
+C:\Users\User\source\repos\06.04.00_CompoundCycle\obj\Debug\netcoreapp3.1\06.04.00_CompoundCycle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.04.00_CompoundCycle\obj\Debug\netcoreapp3.1\06.04.00_CompoundCycle.AssemblyInfo.cs
+C:\Users\User\source\repos\06.04.00_CompoundCycle\obj\Debug\netcoreapp3.1\06.04.00_CompoundCycle.dll
+C:\Users\User\source\repos\06.04.00_CompoundCycle\obj\Debug\netcoreapp3.1\06.04.00_CompoundCycle.pdb

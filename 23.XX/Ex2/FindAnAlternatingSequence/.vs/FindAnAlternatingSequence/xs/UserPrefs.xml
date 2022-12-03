@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6351E80D-4D8C-4DCC-8441-0C6DA76CB53D}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FindAnAlternatingSequence" expanded="True">
+            <Node name="FindAnAlternatingSequence" expanded="True">
+              <Node name="FindAlternatingSequences.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Points</Value>
+          <Value>i</Value>
+          <Value>medianAxes</Value>
+          <Value>xCenterItemBoundaries</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FindAnAlternatingSequence FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/obj/Debug/net5.0/URL_Parser.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/obj/Debug/net5.0/URL_Parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/obj/Debug/net5.0/URL_Parser.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/obj/Debug/net5.0/URL_Parser.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/obj/Debug/net5.0/URL_Parser.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/bin/Debug/net5.0/URL_Parser.deps.json
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/bin/Debug/net5.0/URL_Parser.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/bin/Debug/net5.0/URL_Parser.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/bin/Debug/net5.0/URL_Parser.dll
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/bin/Debug/net5.0/ref/URL_Parser.dll
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/bin/Debug/net5.0/URL_Parser.pdb
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/obj/Debug/net5.0/URL_Parser.dll
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/obj/Debug/net5.0/ref/URL_Parser.dll
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/obj/Debug/net5.0/URL_Parser.pdb
+/Users/petrstepanenko/Projects/13.13_Parsing_URL/URL_Parser/URL_Parser/obj/Debug/net5.0/URL_Parser.genruntimeconfig.cache

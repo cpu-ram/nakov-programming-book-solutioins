@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\bin\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.exe
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\bin\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.deps.json
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\bin\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.runtimeconfig.json
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\bin\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\bin\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.dll
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\bin\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.pdb
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\obj\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\obj\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\obj\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.AssemblyInfo.cs
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\obj\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.dll
+C:\Users\User\source\repos\04.09.00_Ex7_Complexified\obj\Debug\netcoreapp3.1\04.09.00_Ex7_Complexified.pdb

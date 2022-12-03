@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/obj/Debug/net5.0/07.24_MergeSort_Linear.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/obj/Debug/net5.0/07.24_MergeSort_Linear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/obj/Debug/net5.0/07.24_MergeSort_Linear.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/obj/Debug/net5.0/07.24_MergeSort_Linear.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/obj/Debug/net5.0/07.24_MergeSort_Linear.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/bin/Debug/net5.0/07.24_MergeSort_Linear.deps.json
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/bin/Debug/net5.0/07.24_MergeSort_Linear.runtimeconfig.json
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/bin/Debug/net5.0/07.24_MergeSort_Linear.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/bin/Debug/net5.0/07.24_MergeSort_Linear.dll
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/bin/Debug/net5.0/ref/07.24_MergeSort_Linear.dll
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/bin/Debug/net5.0/07.24_MergeSort_Linear.pdb
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/obj/Debug/net5.0/07.24_MergeSort_Linear.dll
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/obj/Debug/net5.0/ref/07.24_MergeSort_Linear.dll
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/obj/Debug/net5.0/07.24_MergeSort_Linear.pdb
+/Users/petrstepanenko/Projects/07.24_MergeSort_Linear/07.24_MergeSort_Linear/obj/Debug/net5.0/07.24_MergeSort_Linear.genruntimeconfig.cache

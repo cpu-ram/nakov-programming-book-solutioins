@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\obj\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\obj\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\obj\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.AssemblyInfo.cs
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\bin\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.exe
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\bin\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.deps.json
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\bin\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.runtimeconfig.json
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\bin\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\bin\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.dll
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\bin\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.pdb
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\obj\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.dll
+C:\Users\User\source\repos\03.15.00_ReplacingSeveralBits\obj\Debug\netcoreapp3.1\03.15.00_ReplacingSeveralBits.pdb

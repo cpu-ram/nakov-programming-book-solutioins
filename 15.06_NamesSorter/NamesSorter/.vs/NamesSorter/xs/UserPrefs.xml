@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{77A7AF9F-2162-4772-9E78-15B05EB13919}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NamesSorter/TextFiles/Program.cs">
+    <Files>
+      <File FileName="NamesSorter/Program.cs" Line="38" Column="6" />
+      <File FileName="NamesSorter/TextFileEditor/Program.cs" Line="5" Column="16" />
+      <File FileName="NamesSorter/TextFileEditor/TypeConverter.cs" Line="3" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NamesSorter" expanded="True">
+            <Node name="NamesSorter" expanded="True">
+              <Node name="TextFiles" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>tempString</Value>
+          <Value>dimensionsString</Value>
+          <Value>dimensionsInt</Value>
+          <Value>tempStringArr</Value>
+          <Value>i</Value>
+          <Value>Convert.ToInt32(tempStringArr[j])</Value>
+          <Value>elements</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NamesSorter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

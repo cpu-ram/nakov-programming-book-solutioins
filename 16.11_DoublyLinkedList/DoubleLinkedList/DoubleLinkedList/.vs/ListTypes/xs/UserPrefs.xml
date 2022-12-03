@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D6E5A579-C887-476B-AE0B-46B957D9DD01}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DLList.cs">
+    <Files>
+      <File FileName="DLList.cs" Line="5" Column="20" />
+      <File FileName="CircularQueue.cs" Line="2" Column="28" />
+      <File FileName="Deque.cs" Line="2" Column="28" />
+      <File FileName="DStack.cs" Line="2" Column="28" />
+      <File FileName="Program.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListTypes" expanded="True">
+            <Node name="CustomCollections" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>values</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomCollections PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

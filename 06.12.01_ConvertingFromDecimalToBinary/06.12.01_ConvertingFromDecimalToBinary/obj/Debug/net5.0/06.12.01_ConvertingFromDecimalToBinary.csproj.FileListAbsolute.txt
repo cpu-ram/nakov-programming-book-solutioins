@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/bin/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.deps.json
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/bin/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.runtimeconfig.json
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/bin/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/bin/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.dll
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/bin/Debug/net5.0/ref/06.12.01_ConvertingFromDecimalToBinary.dll
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/bin/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.pdb
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/obj/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/obj/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/obj/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/obj/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/obj/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/obj/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.dll
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/obj/Debug/net5.0/ref/06.12.01_ConvertingFromDecimalToBinary.dll
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/obj/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.pdb
+/Users/petrstepanenko/Projects/06.12.01_ConvertingFromDecimalToBinary/06.12.01_ConvertingFromDecimalToBinary/obj/Debug/net5.0/06.12.01_ConvertingFromDecimalToBinary.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/bin/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.deps.json
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/bin/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/bin/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/bin/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.dll
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/bin/Debug/net5.0/ref/13.08_ConvertTextToUnicodeNumbers.dll
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/bin/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.pdb
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/obj/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/obj/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/obj/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/obj/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/obj/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/obj/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.dll
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/obj/Debug/net5.0/ref/13.08_ConvertTextToUnicodeNumbers.dll
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/obj/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.pdb
+/Users/petrstepanenko/Projects/13.08_ConvertTextToUnicodeNumbers/13.08_ConvertTextToUnicodeNumbers/obj/Debug/net5.0/13.08_ConvertTextToUnicodeNumbers.genruntimeconfig.cache

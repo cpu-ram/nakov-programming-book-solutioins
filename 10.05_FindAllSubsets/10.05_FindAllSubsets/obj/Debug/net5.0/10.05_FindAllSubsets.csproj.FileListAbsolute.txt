@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/bin/Debug/net5.0/10.05_FindAllSubsets.deps.json
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/bin/Debug/net5.0/10.05_FindAllSubsets.runtimeconfig.json
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/bin/Debug/net5.0/10.05_FindAllSubsets.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/bin/Debug/net5.0/10.05_FindAllSubsets.dll
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/bin/Debug/net5.0/ref/10.05_FindAllSubsets.dll
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/bin/Debug/net5.0/10.05_FindAllSubsets.pdb
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/obj/Debug/net5.0/10.05_FindAllSubsets.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/obj/Debug/net5.0/10.05_FindAllSubsets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/obj/Debug/net5.0/10.05_FindAllSubsets.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/obj/Debug/net5.0/10.05_FindAllSubsets.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/obj/Debug/net5.0/10.05_FindAllSubsets.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/obj/Debug/net5.0/10.05_FindAllSubsets.dll
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/obj/Debug/net5.0/ref/10.05_FindAllSubsets.dll
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/obj/Debug/net5.0/10.05_FindAllSubsets.pdb
+/Users/petrstepanenko/Projects/10.05_FindAllSubsets/10.05_FindAllSubsets/obj/Debug/net5.0/10.05_FindAllSubsets.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Lynn\source\repos\DateTime output\bin\Debug\netcoreapp3.1\DateTime output.exe
+C:\Users\Lynn\source\repos\DateTime output\bin\Debug\netcoreapp3.1\DateTime output.deps.json
+C:\Users\Lynn\source\repos\DateTime output\bin\Debug\netcoreapp3.1\DateTime output.runtimeconfig.json
+C:\Users\Lynn\source\repos\DateTime output\bin\Debug\netcoreapp3.1\DateTime output.runtimeconfig.dev.json
+C:\Users\Lynn\source\repos\DateTime output\bin\Debug\netcoreapp3.1\DateTime output.dll
+C:\Users\Lynn\source\repos\DateTime output\bin\Debug\netcoreapp3.1\DateTime output.pdb
+C:\Users\Lynn\source\repos\DateTime output\obj\Debug\netcoreapp3.1\DateTime output.AssemblyInfoInputs.cache
+C:\Users\Lynn\source\repos\DateTime output\obj\Debug\netcoreapp3.1\DateTime output.AssemblyInfo.cs
+C:\Users\Lynn\source\repos\DateTime output\obj\Debug\netcoreapp3.1\DateTime output.dll
+C:\Users\Lynn\source\repos\DateTime output\obj\Debug\netcoreapp3.1\DateTime output.pdb

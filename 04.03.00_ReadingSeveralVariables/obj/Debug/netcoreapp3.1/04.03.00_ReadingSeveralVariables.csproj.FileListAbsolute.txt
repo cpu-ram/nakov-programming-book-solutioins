@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\bin\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.exe
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\bin\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.deps.json
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\bin\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.runtimeconfig.json
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\bin\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\bin\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.dll
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\bin\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.pdb
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\obj\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\obj\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\obj\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.AssemblyInfo.cs
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\obj\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.dll
+C:\Users\User\source\repos\04.03.00_ReadingSeveralVariables\obj\Debug\netcoreapp3.1\04.03.00_ReadingSeveralVariables.pdb

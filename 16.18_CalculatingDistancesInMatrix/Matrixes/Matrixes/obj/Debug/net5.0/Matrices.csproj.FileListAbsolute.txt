@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/bin/Debug/net5.0/Matrices.deps.json
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/bin/Debug/net5.0/Matrices.runtimeconfig.json
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/bin/Debug/net5.0/Matrices.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/bin/Debug/net5.0/Matrices.dll
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/bin/Debug/net5.0/ref/Matrices.dll
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/bin/Debug/net5.0/Matrices.pdb
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/obj/Debug/net5.0/Matrices.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/obj/Debug/net5.0/Matrices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/obj/Debug/net5.0/Matrices.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/obj/Debug/net5.0/Matrices.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/obj/Debug/net5.0/Matrices.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/obj/Debug/net5.0/Matrices.dll
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/obj/Debug/net5.0/ref/Matrices.dll
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/obj/Debug/net5.0/Matrices.pdb
+/Users/petrstepanenko/Projects/16.18_CalculatingDistancesInMatrix/Matrixes/Matrixes/obj/Debug/net5.0/Matrices.genruntimeconfig.cache

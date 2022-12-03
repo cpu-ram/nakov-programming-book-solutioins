@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "08.12_ConvertArabicNumberToRoman/1.0.0": {
+        "runtime": {
+          "08.12_ConvertArabicNumberToRoman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08.12_ConvertArabicNumberToRoman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

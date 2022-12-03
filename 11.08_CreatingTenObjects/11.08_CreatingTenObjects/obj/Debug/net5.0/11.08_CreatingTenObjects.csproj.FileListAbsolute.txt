@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/obj/Debug/net5.0/11.08_CreatingTenObjects.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/obj/Debug/net5.0/11.08_CreatingTenObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/obj/Debug/net5.0/11.08_CreatingTenObjects.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/obj/Debug/net5.0/11.08_CreatingTenObjects.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/obj/Debug/net5.0/11.08_CreatingTenObjects.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/bin/Debug/net5.0/11.08_CreatingTenObjects.deps.json
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/bin/Debug/net5.0/11.08_CreatingTenObjects.runtimeconfig.json
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/bin/Debug/net5.0/11.08_CreatingTenObjects.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/bin/Debug/net5.0/11.08_CreatingTenObjects.dll
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/bin/Debug/net5.0/ref/11.08_CreatingTenObjects.dll
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/bin/Debug/net5.0/11.08_CreatingTenObjects.pdb
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/obj/Debug/net5.0/11.08_CreatingTenObjects.dll
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/obj/Debug/net5.0/ref/11.08_CreatingTenObjects.dll
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/obj/Debug/net5.0/11.08_CreatingTenObjects.pdb
+/Users/petrstepanenko/Projects/11.08_CreatingTenObjects/11.08_CreatingTenObjects/obj/Debug/net5.0/11.08_CreatingTenObjects.genruntimeconfig.cache

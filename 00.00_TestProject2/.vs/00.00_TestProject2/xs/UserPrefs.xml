@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{57C1DF8B-536E-4CC5-BC18-1EC2D5CD4B67}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>currIndex</Value>
+          <Value>sum</Value>
+          <Value>numbersAdded</Value>
+          <Value>numbers.Length</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.00.00__TestProject2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/petrstepanenko/Projects/00.00_TestProject2/Program.cs" relfile="Program.cs" line="15" column="13" />
+      <Breakpoint file="/Users/petrstepanenko/Projects/00.00_TestProject2/Program.cs" relfile="Program.cs" line="25" column="13" />
+      <Breakpoint file="/Users/petrstepanenko/Projects/00.00_TestProject2/Program.cs" relfile="Program.cs" line="31" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

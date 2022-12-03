@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\bin\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.exe
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\bin\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.deps.json
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\bin\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.runtimeconfig.json
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\bin\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\bin\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.dll
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\bin\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.pdb
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\obj\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\obj\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\obj\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.AssemblyInfo.cs
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\obj\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.dll
+C:\Users\User\source\repos\05.08.00_ConsoleChoice\obj\Debug\netcoreapp3.1\05.08.00_ConsoleChoice.pdb

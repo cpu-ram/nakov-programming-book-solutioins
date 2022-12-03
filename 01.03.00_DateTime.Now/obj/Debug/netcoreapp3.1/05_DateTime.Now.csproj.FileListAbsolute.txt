@@ -1,0 +1,11 @@
+C:\Users\Lynn\source\repos\05_DateTime.Now\bin\Debug\netcoreapp3.1\05_DateTime.Now.exe
+C:\Users\Lynn\source\repos\05_DateTime.Now\bin\Debug\netcoreapp3.1\05_DateTime.Now.deps.json
+C:\Users\Lynn\source\repos\05_DateTime.Now\bin\Debug\netcoreapp3.1\05_DateTime.Now.runtimeconfig.json
+C:\Users\Lynn\source\repos\05_DateTime.Now\bin\Debug\netcoreapp3.1\05_DateTime.Now.runtimeconfig.dev.json
+C:\Users\Lynn\source\repos\05_DateTime.Now\bin\Debug\netcoreapp3.1\05_DateTime.Now.dll
+C:\Users\Lynn\source\repos\05_DateTime.Now\bin\Debug\netcoreapp3.1\05_DateTime.Now.pdb
+C:\Users\Lynn\source\repos\05_DateTime.Now\obj\Debug\netcoreapp3.1\05_DateTime.Now.csprojAssemblyReference.cache
+C:\Users\Lynn\source\repos\05_DateTime.Now\obj\Debug\netcoreapp3.1\05_DateTime.Now.AssemblyInfoInputs.cache
+C:\Users\Lynn\source\repos\05_DateTime.Now\obj\Debug\netcoreapp3.1\05_DateTime.Now.AssemblyInfo.cs
+C:\Users\Lynn\source\repos\05_DateTime.Now\obj\Debug\netcoreapp3.1\05_DateTime.Now.dll
+C:\Users\Lynn\source\repos\05_DateTime.Now\obj\Debug\netcoreapp3.1\05_DateTime.Now.pdb

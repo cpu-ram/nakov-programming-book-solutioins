@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\bin\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.exe
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\bin\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.deps.json
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\bin\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.runtimeconfig.json
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\bin\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\bin\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.dll
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\bin\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.pdb
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\obj\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\obj\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\obj\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.AssemblyInfo.cs
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\obj\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.dll
+C:\Users\User\source\repos\04.01.00_ConsoleReadAndSummarize\obj\Debug\netcoreapp3.1\04.01.00_ConsoleReadAndSummarize.pdb

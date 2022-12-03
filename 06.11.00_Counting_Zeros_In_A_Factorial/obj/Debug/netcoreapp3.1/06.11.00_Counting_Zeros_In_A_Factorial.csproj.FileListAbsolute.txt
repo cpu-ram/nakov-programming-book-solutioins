@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\bin\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.exe
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\bin\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.deps.json
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\bin\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.runtimeconfig.json
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\bin\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\bin\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.dll
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\bin\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.pdb
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\obj\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\obj\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\obj\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.AssemblyInfo.cs
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\obj\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.dll
+C:\Users\User\source\repos\06.11.00_Counting_Zeros_In_A_Factorial\obj\Debug\netcoreapp3.1\06.11.00_Counting_Zeros_In_A_Factorial.pdb

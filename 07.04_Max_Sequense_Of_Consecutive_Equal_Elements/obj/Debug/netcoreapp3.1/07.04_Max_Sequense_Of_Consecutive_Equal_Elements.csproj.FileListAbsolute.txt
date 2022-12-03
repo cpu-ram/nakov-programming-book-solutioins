@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\bin\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.exe
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\bin\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.deps.json
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\bin\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.runtimeconfig.json
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\bin\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\bin\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.dll
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\bin\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.pdb
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\obj\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.csprojAssemblyReference.cache
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\obj\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\obj\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.AssemblyInfo.cs
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\obj\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.dll
+C:\Users\User\source\repos\07.04_Max_Sequense_Of_Consecutive_Equal_Elements\obj\Debug\netcoreapp3.1\07.04_Max_Sequense_Of_Consecutive_Equal_Elements.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{249C34B1-8282-4612-B280-514DF6F6B49C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShortestLengthPerimeterFinder/Plane.cs">
+    <Files>
+      <File FileName="ShortestLengthPerimeterFinder/Program.cs" Line="9" Column="47" />
+      <File FileName="ShortestLengthPerimeterFinder/Plane.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShortestLengthPerimeterFinder" expanded="True">
+            <Node name="ShortestLengthPerimeterFinder" expanded="True">
+              <Node name="Plane.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ShortestLengthPerimeterFinder FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

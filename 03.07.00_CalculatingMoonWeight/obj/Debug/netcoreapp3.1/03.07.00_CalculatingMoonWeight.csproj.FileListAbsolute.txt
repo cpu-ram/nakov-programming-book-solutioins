@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\bin\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.exe
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\bin\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.deps.json
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\bin\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.runtimeconfig.json
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\bin\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\bin\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.dll
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\bin\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.pdb
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\obj\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\obj\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\obj\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.AssemblyInfo.cs
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\obj\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.dll
+C:\Users\User\source\repos\03.07.00_CalculatingMoonWeight\obj\Debug\netcoreapp3.1\03.07.00_CalculatingMoonWeight.pdb

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{DCC136C3-1F17-4AED-A904-7A5AB982738F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="11.07_ProjectHierarchyPractice/Program.cs">
+    <Files>
+      <File FileName="11.07_ProjectHierarchyPractice/Program.cs" Line="10" Column="23" />
+      <File FileName="11.07_ProjectHierarchyPractice/CreatingAndUsingObjects/Cat.cs" />
+      <File FileName="11.07_ProjectHierarchyPractice/CreatingAndUsingObjects/Sequence.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="11.07_ProjectHierarchyPractice" expanded="True">
+            <Node name="11.07_ProjectHierarchyPractice" expanded="True">
+              <Node name="CreatingAndUsingObjects" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>area</Value>
+          <Value>a</Value>
+          <Value>b</Value>
+          <Value>c</Value>
+          <Value>Math.Pow(a,2d)</Value>
+          <Value>Math.Pow(x,2d)</Value>
+          <Value>x</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.11.07__ProjectHierarchyPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

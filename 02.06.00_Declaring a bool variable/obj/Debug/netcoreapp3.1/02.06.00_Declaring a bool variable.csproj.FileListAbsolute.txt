@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\bin\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.exe
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\bin\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.deps.json
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\bin\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.runtimeconfig.json
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\bin\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\bin\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.dll
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\bin\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.pdb
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\obj\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.csprojAssemblyReference.cache
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\obj\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\obj\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.AssemblyInfo.cs
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\obj\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.dll
+C:\Users\User\source\repos\02.06.00_Declaring a bool variable\obj\Debug\netcoreapp3.1\02.06.00_Declaring a bool variable.pdb

@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/obj/Debug/net5.0/13.12_PracticingStringFormatting.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/obj/Debug/net5.0/13.12_PracticingStringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/obj/Debug/net5.0/13.12_PracticingStringFormatting.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/obj/Debug/net5.0/13.12_PracticingStringFormatting.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/obj/Debug/net5.0/13.12_PracticingStringFormatting.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/bin/Debug/net5.0/13.12_PracticingStringFormatting.deps.json
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/bin/Debug/net5.0/13.12_PracticingStringFormatting.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/bin/Debug/net5.0/13.12_PracticingStringFormatting.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/bin/Debug/net5.0/13.12_PracticingStringFormatting.dll
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/bin/Debug/net5.0/ref/13.12_PracticingStringFormatting.dll
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/bin/Debug/net5.0/13.12_PracticingStringFormatting.pdb
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/obj/Debug/net5.0/13.12_PracticingStringFormatting.dll
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/obj/Debug/net5.0/ref/13.12_PracticingStringFormatting.dll
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/obj/Debug/net5.0/13.12_PracticingStringFormatting.pdb
+/Users/petrstepanenko/Projects/13.12_PracticingStringFormatting/13.12_PracticingStringFormatting/obj/Debug/net5.0/13.12_PracticingStringFormatting.genruntimeconfig.cache

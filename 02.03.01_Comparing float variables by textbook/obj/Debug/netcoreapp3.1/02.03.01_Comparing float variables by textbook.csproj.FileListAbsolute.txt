@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\bin\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.exe
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\bin\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.deps.json
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\bin\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.runtimeconfig.json
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\bin\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\bin\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.dll
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\bin\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.pdb
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\obj\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.csprojAssemblyReference.cache
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\obj\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\obj\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.AssemblyInfo.cs
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\obj\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.dll
+C:\Users\User\source\repos\02.03.01_Comparing float variables by textbook\obj\Debug\netcoreapp3.1\02.03.01_Comparing float variables by textbook.pdb

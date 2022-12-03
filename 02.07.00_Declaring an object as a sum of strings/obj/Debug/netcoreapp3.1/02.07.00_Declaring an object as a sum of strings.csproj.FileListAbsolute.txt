@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\bin\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.exe
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\bin\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.deps.json
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\bin\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.runtimeconfig.json
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\bin\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\bin\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.dll
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\bin\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.pdb
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\obj\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.csprojAssemblyReference.cache
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\obj\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\obj\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.AssemblyInfo.cs
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\obj\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.dll
+C:\Users\User\source\repos\02.07.00_Declaring an object as a sum of strings\obj\Debug\netcoreapp3.1\02.07.00_Declaring an object as a sum of strings.pdb

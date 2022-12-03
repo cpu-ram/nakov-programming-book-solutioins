@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\bin\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.exe
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\bin\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.deps.json
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\bin\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.runtimeconfig.json
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\bin\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\bin\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.dll
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\bin\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.pdb
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\obj\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.csprojAssemblyReference.cache
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\obj\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\obj\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.AssemblyInfo.cs
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\obj\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.dll
+C:\Users\User\source\repos\02.08.00_'Type casting' object to string\obj\Debug\netcoreapp3.1\02.08.00_'Type casting' object to string.pdb

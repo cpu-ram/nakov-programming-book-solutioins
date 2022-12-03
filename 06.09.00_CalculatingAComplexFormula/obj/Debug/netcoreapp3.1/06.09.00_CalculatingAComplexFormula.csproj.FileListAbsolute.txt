@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\bin\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.exe
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\bin\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.deps.json
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\bin\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.runtimeconfig.json
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\bin\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\bin\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.dll
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\bin\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.pdb
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\obj\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\obj\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\obj\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.AssemblyInfo.cs
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\obj\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.dll
+C:\Users\User\source\repos\06.09.00_CalculatingAComplexFormula\obj\Debug\netcoreapp3.1\06.09.00_CalculatingAComplexFormula.pdb

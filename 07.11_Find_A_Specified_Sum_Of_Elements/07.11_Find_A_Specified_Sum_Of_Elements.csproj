@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_07._11_Find_A_Specified_Sum_Of_Elements</RootNamespace>
+  </PropertyGroup>
+
+</Project>

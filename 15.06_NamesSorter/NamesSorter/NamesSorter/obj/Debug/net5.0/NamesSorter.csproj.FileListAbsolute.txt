@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/obj/Debug/net5.0/NamesSorter.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/obj/Debug/net5.0/NamesSorter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/obj/Debug/net5.0/NamesSorter.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/obj/Debug/net5.0/NamesSorter.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/obj/Debug/net5.0/NamesSorter.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/bin/Debug/net5.0/NamesSorter.deps.json
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/bin/Debug/net5.0/NamesSorter.runtimeconfig.json
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/bin/Debug/net5.0/NamesSorter.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/bin/Debug/net5.0/NamesSorter.dll
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/bin/Debug/net5.0/ref/NamesSorter.dll
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/bin/Debug/net5.0/NamesSorter.pdb
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/obj/Debug/net5.0/NamesSorter.dll
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/obj/Debug/net5.0/ref/NamesSorter.dll
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/obj/Debug/net5.0/NamesSorter.pdb
+/Users/petrstepanenko/Projects/15.06_NamesSorter/NamesSorter/NamesSorter/obj/Debug/net5.0/NamesSorter.genruntimeconfig.cache

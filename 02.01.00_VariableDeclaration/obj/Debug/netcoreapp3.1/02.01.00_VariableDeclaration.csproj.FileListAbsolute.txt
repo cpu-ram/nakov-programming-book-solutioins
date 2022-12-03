@@ -1,0 +1,11 @@
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\bin\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.exe
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\bin\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.deps.json
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\bin\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.runtimeconfig.json
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\bin\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.runtimeconfig.dev.json
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\bin\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.dll
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\bin\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.pdb
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\obj\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.csprojAssemblyReference.cache
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\obj\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.AssemblyInfoInputs.cache
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\obj\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.AssemblyInfo.cs
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\obj\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.dll
+C:\Users\Lynn\source\repos\02.01.00_VariableDeclaration\obj\Debug\netcoreapp3.1\02.01.00_VariableDeclaration.pdb

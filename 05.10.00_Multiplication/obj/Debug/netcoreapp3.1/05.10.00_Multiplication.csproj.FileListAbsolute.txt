@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\05.10.00_Multiplication\obj\Debug\netcoreapp3.1\05.10.00_Multiplication.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05.10.00_Multiplication\obj\Debug\netcoreapp3.1\05.10.00_Multiplication.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.10.00_Multiplication\obj\Debug\netcoreapp3.1\05.10.00_Multiplication.AssemblyInfo.cs
+C:\Users\User\source\repos\05.10.00_Multiplication\bin\Debug\netcoreapp3.1\05.10.00_Multiplication.exe
+C:\Users\User\source\repos\05.10.00_Multiplication\bin\Debug\netcoreapp3.1\05.10.00_Multiplication.deps.json
+C:\Users\User\source\repos\05.10.00_Multiplication\bin\Debug\netcoreapp3.1\05.10.00_Multiplication.runtimeconfig.json
+C:\Users\User\source\repos\05.10.00_Multiplication\bin\Debug\netcoreapp3.1\05.10.00_Multiplication.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.10.00_Multiplication\bin\Debug\netcoreapp3.1\05.10.00_Multiplication.dll
+C:\Users\User\source\repos\05.10.00_Multiplication\bin\Debug\netcoreapp3.1\05.10.00_Multiplication.pdb
+C:\Users\User\source\repos\05.10.00_Multiplication\obj\Debug\netcoreapp3.1\05.10.00_Multiplication.dll
+C:\Users\User\source\repos\05.10.00_Multiplication\obj\Debug\netcoreapp3.1\05.10.00_Multiplication.pdb

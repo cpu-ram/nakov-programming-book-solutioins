@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\obj\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.csprojAssemblyReference.cache
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\obj\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\obj\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.AssemblyInfo.cs
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\bin\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.exe
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\bin\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.deps.json
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\bin\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.runtimeconfig.json
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\bin\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\bin\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.dll
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\bin\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.pdb
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\obj\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.dll
+C:\Users\User\source\repos\07.03_Alphabetical_sorting\obj\Debug\netcoreapp3.1\07.03_Alphabetical_sorting.pdb

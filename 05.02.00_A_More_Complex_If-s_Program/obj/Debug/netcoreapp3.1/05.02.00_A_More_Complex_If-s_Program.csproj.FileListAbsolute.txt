@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\bin\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.exe
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\bin\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.deps.json
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\bin\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.runtimeconfig.json
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\bin\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\bin\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.dll
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\bin\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.pdb
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\obj\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\obj\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\obj\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.AssemblyInfo.cs
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\obj\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.dll
+C:\Users\User\source\repos\05.02.00_A_More_Complex_If-s_Program\obj\Debug\netcoreapp3.1\05.02.00_A_More_Complex_If-s_Program.pdb

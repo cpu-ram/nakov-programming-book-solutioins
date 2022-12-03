@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/bin/Debug/net5.0/13.02_StringReverser.deps.json
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/bin/Debug/net5.0/13.02_StringReverser.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/bin/Debug/net5.0/13.02_StringReverser.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/bin/Debug/net5.0/13.02_StringReverser.dll
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/bin/Debug/net5.0/ref/13.02_StringReverser.dll
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/bin/Debug/net5.0/13.02_StringReverser.pdb
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/obj/Debug/net5.0/13.02_StringReverser.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/obj/Debug/net5.0/13.02_StringReverser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/obj/Debug/net5.0/13.02_StringReverser.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/obj/Debug/net5.0/13.02_StringReverser.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/obj/Debug/net5.0/13.02_StringReverser.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/obj/Debug/net5.0/13.02_StringReverser.dll
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/obj/Debug/net5.0/ref/13.02_StringReverser.dll
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/obj/Debug/net5.0/13.02_StringReverser.pdb
+/Users/petrstepanenko/Projects/13.02_StringReverser/13.02_StringReverser/obj/Debug/net5.0/13.02_StringReverser.genruntimeconfig.cache

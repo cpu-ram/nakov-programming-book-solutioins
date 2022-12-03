@@ -1,0 +1,10 @@
+C:\Users\Lynn\source\repos\05_SquareRoot\bin\Debug\netcoreapp3.1\05_SquareRoot.exe
+C:\Users\Lynn\source\repos\05_SquareRoot\bin\Debug\netcoreapp3.1\05_SquareRoot.deps.json
+C:\Users\Lynn\source\repos\05_SquareRoot\bin\Debug\netcoreapp3.1\05_SquareRoot.runtimeconfig.json
+C:\Users\Lynn\source\repos\05_SquareRoot\bin\Debug\netcoreapp3.1\05_SquareRoot.runtimeconfig.dev.json
+C:\Users\Lynn\source\repos\05_SquareRoot\bin\Debug\netcoreapp3.1\05_SquareRoot.dll
+C:\Users\Lynn\source\repos\05_SquareRoot\bin\Debug\netcoreapp3.1\05_SquareRoot.pdb
+C:\Users\Lynn\source\repos\05_SquareRoot\obj\Debug\netcoreapp3.1\05_SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Lynn\source\repos\05_SquareRoot\obj\Debug\netcoreapp3.1\05_SquareRoot.AssemblyInfo.cs
+C:\Users\Lynn\source\repos\05_SquareRoot\obj\Debug\netcoreapp3.1\05_SquareRoot.dll
+C:\Users\Lynn\source\repos\05_SquareRoot\obj\Debug\netcoreapp3.1\05_SquareRoot.pdb

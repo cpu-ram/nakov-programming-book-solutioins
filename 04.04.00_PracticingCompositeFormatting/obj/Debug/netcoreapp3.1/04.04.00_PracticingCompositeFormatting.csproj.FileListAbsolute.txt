@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\bin\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.exe
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\bin\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.deps.json
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\bin\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.runtimeconfig.json
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\bin\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\bin\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.dll
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\bin\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.pdb
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\obj\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\obj\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\obj\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.AssemblyInfo.cs
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\obj\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.dll
+C:\Users\User\source\repos\04.04.00_PracticingCompositeFormatting\obj\Debug\netcoreapp3.1\04.04.00_PracticingCompositeFormatting.pdb

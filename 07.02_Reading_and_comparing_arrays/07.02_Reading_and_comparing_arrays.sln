@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.02_Reading_and_comparing_arrays", "07.02_Reading_and_comparing_arrays.csproj", "{0D9662F3-558C-4254-8F1D-AC9901526D48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D9662F3-558C-4254-8F1D-AC9901526D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9662F3-558C-4254-8F1D-AC9901526D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9662F3-558C-4254-8F1D-AC9901526D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9662F3-558C-4254-8F1D-AC9901526D48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28752DC-A20C-43B3-B656-8EB700D59218}
+	EndGlobalSection
+EndGlobal

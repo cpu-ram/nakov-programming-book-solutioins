@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FA49895F-EA8D-47D2-8BF9-99B61ED07762}|Default">
+  <MonoDevelop.Ide.ItemProperties.LinesRemover PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinesRemover/MainClass.cs">
+    <Files>
+      <File FileName="LinesRemover/Program.cs" Line="30" Column="10" />
+      <File FileName="LinesRemover/Main.cs" Line="5" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinesRemover" expanded="True">
+            <Node name="LinesRemover" expanded="True">
+              <Node name="MainClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

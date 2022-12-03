@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\bin\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.exe
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\bin\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.deps.json
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\bin\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.runtimeconfig.json
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\bin\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\bin\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.dll
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\bin\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.pdb
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\obj\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.csprojAssemblyReference.cache
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\obj\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\obj\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.AssemblyInfo.cs
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\obj\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.dll
+C:\Users\User\source\repos\05.03.00_Nested_If_Statements\obj\Debug\netcoreapp3.1\05.03.00_Nested_If_Statements.pdb

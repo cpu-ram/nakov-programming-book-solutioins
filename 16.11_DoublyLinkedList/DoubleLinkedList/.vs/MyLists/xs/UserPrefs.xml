@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C02462D7-712B-4060-9828-A3ADFFF3A4AD}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyLists PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoubleLinkedList/Program.cs">
+    <Files>
+      <File FileName="DoubleLinkedList/Program.cs" Line="4" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyLists" expanded="True" selected="True">
+            <Node name="MyLists" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>length</Value>
+          <Value>currentIndex</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

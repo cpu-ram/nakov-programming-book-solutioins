@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\04.05.00_BasicSwitchUse\bin\Debug\netcoreapp3.1\04.05.00_BasicSwitchUse.exe
+C:\Users\User\source\repos\04.05.00_BasicSwitchUse\bin\Debug\netcoreapp3.1\04.05.00_BasicSwitchUse.deps.json
+C:\Users\User\source\repos\04.05.00_BasicSwitchUse\bin\Debug\netcoreapp3.1\04.05.00_BasicSwitchUse.runtimeconfig.json
+C:\Users\User\source\repos\04.05.00_BasicSwitchUse\bin\Debug\netcoreapp3.1\04.05.00_BasicSwitchUse.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.05.00_BasicSwitchUse\bin\Debug\netcoreapp3.1\04.05.00_BasicSwitchUse.dll
+C:\Users\User\source\repos\04.05.00_BasicSwitchUse\bin\Debug\netcoreapp3.1\04.05.00_BasicSwitchUse.pdb
+C:\Users\User\source\repos\04.05.00_BasicSwitchUse\obj\Debug\netcoreapp3.1\04.05.00_BasicSwitchUse.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.05.00_BasicSwitchUse\obj\Debug\netcoreapp3.1\04.05.00_BasicSwitchUse.AssemblyInfo.cs
+C:\Users\User\source\repos\04.05.00_BasicSwitchUse\obj\Debug\netcoreapp3.1\04.05.00_BasicSwitchUse.dll
+C:\Users\User\source\repos\04.05.00_BasicSwitchUse\obj\Debug\netcoreapp3.1\04.05.00_BasicSwitchUse.pdb

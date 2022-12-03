@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\04.12.00_ComplexFunction\bin\Debug\netcoreapp3.1\04.12.00_ComplexFunction.exe
+C:\Users\User\source\repos\04.12.00_ComplexFunction\bin\Debug\netcoreapp3.1\04.12.00_ComplexFunction.deps.json
+C:\Users\User\source\repos\04.12.00_ComplexFunction\bin\Debug\netcoreapp3.1\04.12.00_ComplexFunction.runtimeconfig.json
+C:\Users\User\source\repos\04.12.00_ComplexFunction\bin\Debug\netcoreapp3.1\04.12.00_ComplexFunction.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.12.00_ComplexFunction\bin\Debug\netcoreapp3.1\04.12.00_ComplexFunction.dll
+C:\Users\User\source\repos\04.12.00_ComplexFunction\bin\Debug\netcoreapp3.1\04.12.00_ComplexFunction.pdb
+C:\Users\User\source\repos\04.12.00_ComplexFunction\obj\Debug\netcoreapp3.1\04.12.00_ComplexFunction.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04.12.00_ComplexFunction\obj\Debug\netcoreapp3.1\04.12.00_ComplexFunction.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.12.00_ComplexFunction\obj\Debug\netcoreapp3.1\04.12.00_ComplexFunction.AssemblyInfo.cs
+C:\Users\User\source\repos\04.12.00_ComplexFunction\obj\Debug\netcoreapp3.1\04.12.00_ComplexFunction.dll
+C:\Users\User\source\repos\04.12.00_ComplexFunction\obj\Debug\netcoreapp3.1\04.12.00_ComplexFunction.pdb

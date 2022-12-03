@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{AD52255B-9C5D-45D5-A354-680B36BD2495}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trees/Trees/Tree.cs">
+    <Files>
+      <File FileName="Trees/Program.cs" Line="57" Column="11" />
+      <File FileName="Trees/FileExplorer/FileExplorer.cs" />
+      <File FileName="Trees/FileExplorer/FileExplorerTwo.cs" />
+      <File FileName="Trees/ConsoleTools/ConsoleReader.cs" />
+      <File FileName="Trees/Trees/Tree.cs" Line="293" Column="57" />
+      <File FileName="../../../../../Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Roslyn/Microsoft.CSharp.Core.targets" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trees" expanded="True">
+            <Node name="Trees" expanded="True">
+              <Node name="Trees" expanded="True">
+                <Node name="Tree.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Trees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

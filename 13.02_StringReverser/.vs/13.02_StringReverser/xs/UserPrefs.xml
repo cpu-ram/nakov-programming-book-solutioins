@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{CD7960A5-74B7-4551-A4BE-EDC224BB3997}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="13.02_StringReverser/Program.cs">
+    <Files>
+      <File FileName="13.02_StringReverser/Program.cs" Line="33" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="13.02_StringReverser" expanded="True">
+            <Node name="13.02_StringReverser" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="13.02_StringReverser" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>i</Value>
+          <Value>sb</Value>
+          <Value>tempSB</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.13.02__StringReverser PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

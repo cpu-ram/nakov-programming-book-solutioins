@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\07.05_Finding_Non-Consecutive_Increasing_Numbers\bin\Debug\netcoreapp3.1\07.05_Finding_Non-Consecutive_Increasing_Numbers.exe
+C:\Users\User\source\repos\07.05_Finding_Non-Consecutive_Increasing_Numbers\bin\Debug\netcoreapp3.1\07.05_Finding_Non-Consecutive_Increasing_Numbers.deps.json
+C:\Users\User\source\repos\07.05_Finding_Non-Consecutive_Increasing_Numbers\bin\Debug\netcoreapp3.1\07.05_Finding_Non-Consecutive_Increasing_Numbers.runtimeconfig.json
+C:\Users\User\source\repos\07.05_Finding_Non-Consecutive_Increasing_Numbers\bin\Debug\netcoreapp3.1\07.05_Finding_Non-Consecutive_Increasing_Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.05_Finding_Non-Consecutive_Increasing_Numbers\bin\Debug\netcoreapp3.1\07.05_Finding_Non-Consecutive_Increasing_Numbers.dll
+C:\Users\User\source\repos\07.05_Finding_Non-Consecutive_Increasing_Numbers\bin\Debug\netcoreapp3.1\07.05_Finding_Non-Consecutive_Increasing_Numbers.pdb
+C:\Users\User\source\repos\07.05_Finding_Non-Consecutive_Increasing_Numbers\obj\Debug\netcoreapp3.1\07.05_Finding_Non-Consecutive_Increasing_Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.05_Finding_Non-Consecutive_Increasing_Numbers\obj\Debug\netcoreapp3.1\07.05_Finding_Non-Consecutive_Increasing_Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\07.05_Finding_Non-Consecutive_Increasing_Numbers\obj\Debug\netcoreapp3.1\07.05_Finding_Non-Consecutive_Increasing_Numbers.dll
+C:\Users\User\source\repos\07.05_Finding_Non-Consecutive_Increasing_Numbers\obj\Debug\netcoreapp3.1\07.05_Finding_Non-Consecutive_Increasing_Numbers.pdb

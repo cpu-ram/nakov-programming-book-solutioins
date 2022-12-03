@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/obj/Debug/net5.0/42.00_Calculating_Polynomials.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/obj/Debug/net5.0/42.00_Calculating_Polynomials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/obj/Debug/net5.0/42.00_Calculating_Polynomials.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/obj/Debug/net5.0/42.00_Calculating_Polynomials.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/obj/Debug/net5.0/42.00_Calculating_Polynomials.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/bin/Debug/net5.0/42.00_Calculating_Polynomials.deps.json
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/bin/Debug/net5.0/42.00_Calculating_Polynomials.runtimeconfig.json
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/bin/Debug/net5.0/42.00_Calculating_Polynomials.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/bin/Debug/net5.0/42.00_Calculating_Polynomials.dll
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/bin/Debug/net5.0/ref/42.00_Calculating_Polynomials.dll
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/bin/Debug/net5.0/42.00_Calculating_Polynomials.pdb
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/obj/Debug/net5.0/42.00_Calculating_Polynomials.dll
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/obj/Debug/net5.0/ref/42.00_Calculating_Polynomials.dll
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/obj/Debug/net5.0/42.00_Calculating_Polynomials.pdb
+/Users/petrstepanenko/Projects/42.00_Calculating_Polynomials/42.00_Calculating_Polynomials/obj/Debug/net5.0/42.00_Calculating_Polynomials.genruntimeconfig.cache

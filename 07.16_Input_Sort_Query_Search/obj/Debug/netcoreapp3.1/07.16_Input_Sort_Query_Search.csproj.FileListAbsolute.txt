@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\bin\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.exe
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\bin\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.deps.json
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\bin\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.runtimeconfig.json
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\bin\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\bin\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.dll
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\bin\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.pdb
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\obj\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.csprojAssemblyReference.cache
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\obj\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\obj\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.AssemblyInfo.cs
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\obj\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.dll
+C:\Users\User\source\repos\07.16_Input_Sort_Query_Search\obj\Debug\netcoreapp3.1\07.16_Input_Sort_Query_Search.pdb

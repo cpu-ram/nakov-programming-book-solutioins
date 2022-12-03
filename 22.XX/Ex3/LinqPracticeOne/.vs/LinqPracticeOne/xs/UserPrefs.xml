@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{88656289-A448-4E04-93E2-05184B2EEE70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinqPracticeOne/Program.cs">
+    <Files>
+      <File FileName="LinqPracticeOne/Program.cs" Line="98" Column="9" />
+      <File FileName="LinqPracticeOne/Student.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinqPracticeOne" expanded="True" selected="True">
+            <Node name="LinqPracticeOne" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>currentElement</Value>
+          <Value>currentElementDecimal</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LinqPracticeOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

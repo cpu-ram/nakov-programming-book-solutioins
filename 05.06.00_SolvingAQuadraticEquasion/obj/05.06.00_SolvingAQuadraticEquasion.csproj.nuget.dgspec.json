@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/petrstepanenko/Projects/05.06.00_SolvingAQuadraticEquasion/05.06.00_SolvingAQuadraticEquasion.csproj": {}
+  },
+  "projects": {
+    "/Users/petrstepanenko/Projects/05.06.00_SolvingAQuadraticEquasion/05.06.00_SolvingAQuadraticEquasion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/petrstepanenko/Projects/05.06.00_SolvingAQuadraticEquasion/05.06.00_SolvingAQuadraticEquasion.csproj",
+        "projectName": "05.06.00_SolvingAQuadraticEquasion",
+        "projectPath": "/Users/petrstepanenko/Projects/05.06.00_SolvingAQuadraticEquasion/05.06.00_SolvingAQuadraticEquasion.csproj",
+        "packagesPath": "/Users/petrstepanenko/.nuget/packages/",
+        "outputPath": "/Users/petrstepanenko/Projects/05.06.00_SolvingAQuadraticEquasion/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/petrstepanenko/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

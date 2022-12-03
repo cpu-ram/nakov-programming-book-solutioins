@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\bin\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.exe
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\bin\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.deps.json
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\bin\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.runtimeconfig.json
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\bin\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\bin\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.dll
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\bin\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.pdb
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\obj\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.csprojAssemblyReference.cache
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\obj\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\obj\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.AssemblyInfo.cs
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\obj\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.dll
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\obj\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.pdb
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\obj\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\07.23_All_Combinations_Of_Elements_Of_An_Array\obj\Debug\netcoreapp3.1\07.23_All_Combinations_Of_Elements_Of_An_Array.genruntimeconfig.cache

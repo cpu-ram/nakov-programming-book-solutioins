@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\bin\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.exe
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\bin\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.deps.json
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\bin\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.runtimeconfig.json
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\bin\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.runtimeconfig.dev.json
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\bin\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.dll
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\bin\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.pdb
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\obj\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.csprojAssemblyReference.cache
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\obj\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\obj\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.AssemblyInfo.cs
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\obj\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.dll
+C:\Users\User\source\repos\07.09_Max_Sum_Sequence\obj\Debug\netcoreapp3.1\07.09_Max_Sum_Sequence.pdb

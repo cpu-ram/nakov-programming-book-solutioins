@@ -1,0 +1,14 @@
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/bin/Debug/net5.0/JDictionary.deps.json
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/bin/Debug/net5.0/JDictionary.runtimeconfig.json
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/bin/Debug/net5.0/JDictionary.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/bin/Debug/net5.0/JDictionary.dll
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/bin/Debug/net5.0/ref/JDictionary.dll
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/bin/Debug/net5.0/JDictionary.pdb
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/obj/Debug/net5.0/JDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/obj/Debug/net5.0/JDictionary.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/obj/Debug/net5.0/JDictionary.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/obj/Debug/net5.0/JDictionary.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/obj/Debug/net5.0/JDictionary.dll
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/obj/Debug/net5.0/ref/JDictionary.dll
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/obj/Debug/net5.0/JDictionary.pdb
+/Users/petrstepanenko/Projects/15.13_WordDictionary/JDictionary/JDictionary/obj/Debug/net5.0/JDictionary.genruntimeconfig.cache

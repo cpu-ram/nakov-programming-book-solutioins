@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\bin\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.exe
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\bin\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.deps.json
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\bin\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.runtimeconfig.json
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\bin\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\bin\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.dll
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\bin\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.pdb
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\obj\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\obj\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\obj\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.AssemblyInfo.cs
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\obj\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.dll
+C:\Users\User\source\repos\04.08.00_Ex7+Math.Max\obj\Debug\netcoreapp3.1\04.08.00_Ex7+Math.Max.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\bin\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.exe
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\bin\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.deps.json
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\bin\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.runtimeconfig.json
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\bin\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.runtimeconfig.dev.json
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\bin\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.dll
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\bin\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.pdb
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\obj\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.csprojAssemblyReference.cache
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\obj\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\obj\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.AssemblyInfo.cs
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\obj\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.dll
+C:\Users\User\source\repos\04.11.00_PrintingFibonacciSequence\obj\Debug\netcoreapp3.1\04.11.00_PrintingFibonacciSequence.pdb

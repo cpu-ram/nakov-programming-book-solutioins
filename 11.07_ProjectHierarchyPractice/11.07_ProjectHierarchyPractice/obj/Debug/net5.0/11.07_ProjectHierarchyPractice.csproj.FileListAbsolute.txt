@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/bin/Debug/net5.0/11.07_ProjectHierarchyPractice.deps.json
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/bin/Debug/net5.0/11.07_ProjectHierarchyPractice.runtimeconfig.json
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/bin/Debug/net5.0/11.07_ProjectHierarchyPractice.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/bin/Debug/net5.0/11.07_ProjectHierarchyPractice.dll
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/bin/Debug/net5.0/ref/11.07_ProjectHierarchyPractice.dll
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/bin/Debug/net5.0/11.07_ProjectHierarchyPractice.pdb
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/obj/Debug/net5.0/11.07_ProjectHierarchyPractice.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/obj/Debug/net5.0/11.07_ProjectHierarchyPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/obj/Debug/net5.0/11.07_ProjectHierarchyPractice.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/obj/Debug/net5.0/11.07_ProjectHierarchyPractice.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/obj/Debug/net5.0/11.07_ProjectHierarchyPractice.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/obj/Debug/net5.0/11.07_ProjectHierarchyPractice.dll
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/obj/Debug/net5.0/ref/11.07_ProjectHierarchyPractice.dll
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/obj/Debug/net5.0/11.07_ProjectHierarchyPractice.pdb
+/Users/petrstepanenko/Projects/11.07_ProjectHierarchyPractice/11.07_ProjectHierarchyPractice/obj/Debug/net5.0/11.07_ProjectHierarchyPractice.genruntimeconfig.cache

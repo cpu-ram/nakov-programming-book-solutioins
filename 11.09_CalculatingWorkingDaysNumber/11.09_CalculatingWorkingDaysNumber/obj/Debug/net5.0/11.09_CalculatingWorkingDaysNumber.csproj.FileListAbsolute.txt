@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/bin/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.deps.json
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/bin/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.runtimeconfig.json
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/bin/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/bin/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.dll
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/bin/Debug/net5.0/ref/11.09_CalculatingWorkingDaysNumber.dll
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/bin/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.pdb
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/obj/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/obj/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/obj/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/obj/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/obj/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/obj/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.dll
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/obj/Debug/net5.0/ref/11.09_CalculatingWorkingDaysNumber.dll
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/obj/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.pdb
+/Users/petrstepanenko/Projects/11.09_CalculatingWorkingDaysNumber/11.09_CalculatingWorkingDaysNumber/obj/Debug/net5.0/11.09_CalculatingWorkingDaysNumber.genruntimeconfig.cache

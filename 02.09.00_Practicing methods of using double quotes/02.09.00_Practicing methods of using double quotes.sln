@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.09.00_Practicing methods of using double quotes", "02.09.00_Practicing methods of using double quotes.csproj", "{73CE5C9D-F5CE-4AB1-9C50-F71831FF459F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73CE5C9D-F5CE-4AB1-9C50-F71831FF459F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CE5C9D-F5CE-4AB1-9C50-F71831FF459F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CE5C9D-F5CE-4AB1-9C50-F71831FF459F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CE5C9D-F5CE-4AB1-9C50-F71831FF459F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {974D427C-8E50-4B6E-8895-5D5EC74B4ACB}
+	EndGlobalSection
+EndGlobal

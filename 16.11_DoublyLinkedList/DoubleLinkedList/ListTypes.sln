@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListTypes", "DoubleLinkedList\ListTypes.csproj", "{C02462D7-712B-4060-9828-A3ADFFF3A4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02462D7-712B-4060-9828-A3ADFFF3A4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02462D7-712B-4060-9828-A3ADFFF3A4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02462D7-712B-4060-9828-A3ADFFF3A4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02462D7-712B-4060-9828-A3ADFFF3A4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C21C52D9-7003-4679-967E-493B433E47A8}
+	EndGlobalSection
+EndGlobal

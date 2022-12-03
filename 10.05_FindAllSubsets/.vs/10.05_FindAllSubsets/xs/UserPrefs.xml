@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{58195E06-FD06-4A02-BB01-30DAD32F0765}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.05_FindAllSubsets/Program.cs">
+    <Files>
+      <File FileName="10.05_FindAllSubsets/Program.cs" Line="58" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>str</Value>
+          <Value>iter</Value>
+          <Value>strings[i]</Value>
+          <Value>index</Value>
+          <Value>k</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.10.05__FindAllSubsets PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

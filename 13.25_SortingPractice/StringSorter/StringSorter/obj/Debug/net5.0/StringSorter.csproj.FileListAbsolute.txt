@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/obj/Debug/net5.0/StringSorter.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/obj/Debug/net5.0/StringSorter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/obj/Debug/net5.0/StringSorter.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/obj/Debug/net5.0/StringSorter.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/obj/Debug/net5.0/StringSorter.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/bin/Debug/net5.0/StringSorter.deps.json
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/bin/Debug/net5.0/StringSorter.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/bin/Debug/net5.0/StringSorter.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/bin/Debug/net5.0/StringSorter.dll
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/bin/Debug/net5.0/ref/StringSorter.dll
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/bin/Debug/net5.0/StringSorter.pdb
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/obj/Debug/net5.0/StringSorter.dll
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/obj/Debug/net5.0/ref/StringSorter.dll
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/obj/Debug/net5.0/StringSorter.pdb
+/Users/petrstepanenko/Projects/13.25_SortingPractice/StringSorter/StringSorter/obj/Debug/net5.0/StringSorter.genruntimeconfig.cache

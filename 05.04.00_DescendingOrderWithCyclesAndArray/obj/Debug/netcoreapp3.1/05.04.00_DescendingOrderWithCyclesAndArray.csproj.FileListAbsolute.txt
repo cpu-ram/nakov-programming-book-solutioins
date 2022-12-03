@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\05.04.00_DescendingOrderWithCyclesAndArray\bin\Debug\netcoreapp3.1\05.04.00_DescendingOrderWithCyclesAndArray.exe
+C:\Users\User\source\repos\05.04.00_DescendingOrderWithCyclesAndArray\bin\Debug\netcoreapp3.1\05.04.00_DescendingOrderWithCyclesAndArray.deps.json
+C:\Users\User\source\repos\05.04.00_DescendingOrderWithCyclesAndArray\bin\Debug\netcoreapp3.1\05.04.00_DescendingOrderWithCyclesAndArray.runtimeconfig.json
+C:\Users\User\source\repos\05.04.00_DescendingOrderWithCyclesAndArray\bin\Debug\netcoreapp3.1\05.04.00_DescendingOrderWithCyclesAndArray.runtimeconfig.dev.json
+C:\Users\User\source\repos\05.04.00_DescendingOrderWithCyclesAndArray\bin\Debug\netcoreapp3.1\05.04.00_DescendingOrderWithCyclesAndArray.dll
+C:\Users\User\source\repos\05.04.00_DescendingOrderWithCyclesAndArray\bin\Debug\netcoreapp3.1\05.04.00_DescendingOrderWithCyclesAndArray.pdb
+C:\Users\User\source\repos\05.04.00_DescendingOrderWithCyclesAndArray\obj\Debug\netcoreapp3.1\05.04.00_DescendingOrderWithCyclesAndArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\05.04.00_DescendingOrderWithCyclesAndArray\obj\Debug\netcoreapp3.1\05.04.00_DescendingOrderWithCyclesAndArray.AssemblyInfo.cs
+C:\Users\User\source\repos\05.04.00_DescendingOrderWithCyclesAndArray\obj\Debug\netcoreapp3.1\05.04.00_DescendingOrderWithCyclesAndArray.dll
+C:\Users\User\source\repos\05.04.00_DescendingOrderWithCyclesAndArray\obj\Debug\netcoreapp3.1\05.04.00_DescendingOrderWithCyclesAndArray.pdb

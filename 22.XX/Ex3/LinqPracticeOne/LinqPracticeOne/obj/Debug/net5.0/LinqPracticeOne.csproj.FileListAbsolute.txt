@@ -1,0 +1,14 @@
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/bin/Debug/net5.0/LinqPracticeOne.deps.json
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/bin/Debug/net5.0/LinqPracticeOne.runtimeconfig.json
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/bin/Debug/net5.0/LinqPracticeOne.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/bin/Debug/net5.0/LinqPracticeOne.dll
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/bin/Debug/net5.0/ref/LinqPracticeOne.dll
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/bin/Debug/net5.0/LinqPracticeOne.pdb
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/obj/Debug/net5.0/LinqPracticeOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/obj/Debug/net5.0/LinqPracticeOne.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/obj/Debug/net5.0/LinqPracticeOne.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/obj/Debug/net5.0/LinqPracticeOne.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/obj/Debug/net5.0/LinqPracticeOne.dll
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/obj/Debug/net5.0/ref/LinqPracticeOne.dll
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/obj/Debug/net5.0/LinqPracticeOne.pdb
+/Users/petrstepanenko/Projects/Ch22/Ex3/LinqPracticeOne/LinqPracticeOne/obj/Debug/net5.0/LinqPracticeOne.genruntimeconfig.cache

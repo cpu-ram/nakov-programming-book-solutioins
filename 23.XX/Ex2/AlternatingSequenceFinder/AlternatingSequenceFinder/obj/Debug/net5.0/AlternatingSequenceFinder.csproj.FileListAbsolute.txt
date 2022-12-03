@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/bin/Debug/net5.0/AlternatingSequenceFinder.deps.json
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/bin/Debug/net5.0/AlternatingSequenceFinder.runtimeconfig.json
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/bin/Debug/net5.0/AlternatingSequenceFinder.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/bin/Debug/net5.0/AlternatingSequenceFinder.dll
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/bin/Debug/net5.0/ref/AlternatingSequenceFinder.dll
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/bin/Debug/net5.0/AlternatingSequenceFinder.pdb
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/obj/Debug/net5.0/AlternatingSequenceFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/obj/Debug/net5.0/AlternatingSequenceFinder.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/obj/Debug/net5.0/AlternatingSequenceFinder.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/obj/Debug/net5.0/AlternatingSequenceFinder.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/obj/Debug/net5.0/AlternatingSequenceFinder.dll
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/obj/Debug/net5.0/ref/AlternatingSequenceFinder.dll
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/obj/Debug/net5.0/AlternatingSequenceFinder.pdb
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/obj/Debug/net5.0/AlternatingSequenceFinder.genruntimeconfig.cache
+/Users/petrstepanenko/Projects/Ch23/Ex2/AlternatingSequenceFinder/AlternatingSequenceFinder/obj/Debug/net5.0/AlternatingSequenceFinder.csprojAssemblyReference.cache

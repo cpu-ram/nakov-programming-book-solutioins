@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "07.07_Finding_Consecutive_Elements_With_Max_Sum/1.0.0": {
+        "runtime": {
+          "07.07_Finding_Consecutive_Elements_With_Max_Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07.07_Finding_Consecutive_Elements_With_Max_Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

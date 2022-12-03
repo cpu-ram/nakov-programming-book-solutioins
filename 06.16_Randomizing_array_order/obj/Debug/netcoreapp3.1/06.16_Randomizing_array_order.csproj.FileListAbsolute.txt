@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\06.16_Randomizing_array_order\bin\Debug\netcoreapp3.1\06.16_Randomizing_array_order.exe
+C:\Users\User\source\repos\06.16_Randomizing_array_order\bin\Debug\netcoreapp3.1\06.16_Randomizing_array_order.deps.json
+C:\Users\User\source\repos\06.16_Randomizing_array_order\bin\Debug\netcoreapp3.1\06.16_Randomizing_array_order.runtimeconfig.json
+C:\Users\User\source\repos\06.16_Randomizing_array_order\bin\Debug\netcoreapp3.1\06.16_Randomizing_array_order.runtimeconfig.dev.json
+C:\Users\User\source\repos\06.16_Randomizing_array_order\bin\Debug\netcoreapp3.1\06.16_Randomizing_array_order.dll
+C:\Users\User\source\repos\06.16_Randomizing_array_order\bin\Debug\netcoreapp3.1\06.16_Randomizing_array_order.pdb
+C:\Users\User\source\repos\06.16_Randomizing_array_order\obj\Debug\netcoreapp3.1\06.16_Randomizing_array_order.csprojAssemblyReference.cache
+C:\Users\User\source\repos\06.16_Randomizing_array_order\obj\Debug\netcoreapp3.1\06.16_Randomizing_array_order.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\06.16_Randomizing_array_order\obj\Debug\netcoreapp3.1\06.16_Randomizing_array_order.AssemblyInfo.cs
+C:\Users\User\source\repos\06.16_Randomizing_array_order\obj\Debug\netcoreapp3.1\06.16_Randomizing_array_order.dll
+C:\Users\User\source\repos\06.16_Randomizing_array_order\obj\Debug\netcoreapp3.1\06.16_Randomizing_array_order.pdb

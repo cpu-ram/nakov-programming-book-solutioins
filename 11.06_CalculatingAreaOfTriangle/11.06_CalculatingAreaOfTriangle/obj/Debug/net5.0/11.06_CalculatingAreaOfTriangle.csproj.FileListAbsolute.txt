@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/bin/Debug/net5.0/11.06_CalculatingAreaOfTriangle.deps.json
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/bin/Debug/net5.0/11.06_CalculatingAreaOfTriangle.runtimeconfig.json
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/bin/Debug/net5.0/11.06_CalculatingAreaOfTriangle.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/bin/Debug/net5.0/11.06_CalculatingAreaOfTriangle.dll
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/bin/Debug/net5.0/ref/11.06_CalculatingAreaOfTriangle.dll
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/bin/Debug/net5.0/11.06_CalculatingAreaOfTriangle.pdb
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/obj/Debug/net5.0/11.06_CalculatingAreaOfTriangle.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/obj/Debug/net5.0/11.06_CalculatingAreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/obj/Debug/net5.0/11.06_CalculatingAreaOfTriangle.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/obj/Debug/net5.0/11.06_CalculatingAreaOfTriangle.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/obj/Debug/net5.0/11.06_CalculatingAreaOfTriangle.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/obj/Debug/net5.0/11.06_CalculatingAreaOfTriangle.dll
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/obj/Debug/net5.0/ref/11.06_CalculatingAreaOfTriangle.dll
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/obj/Debug/net5.0/11.06_CalculatingAreaOfTriangle.pdb
+/Users/petrstepanenko/Projects/11.06_CalculatingAreaOfTriangle/11.06_CalculatingAreaOfTriangle/obj/Debug/net5.0/11.06_CalculatingAreaOfTriangle.genruntimeconfig.cache

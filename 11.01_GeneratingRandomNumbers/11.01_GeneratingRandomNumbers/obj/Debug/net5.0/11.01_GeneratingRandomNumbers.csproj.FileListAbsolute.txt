@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/bin/Debug/net5.0/11.01_GeneratingRandomNumbers.deps.json
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/bin/Debug/net5.0/11.01_GeneratingRandomNumbers.runtimeconfig.json
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/bin/Debug/net5.0/11.01_GeneratingRandomNumbers.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/bin/Debug/net5.0/11.01_GeneratingRandomNumbers.dll
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/bin/Debug/net5.0/ref/11.01_GeneratingRandomNumbers.dll
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/bin/Debug/net5.0/11.01_GeneratingRandomNumbers.pdb
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/obj/Debug/net5.0/11.01_GeneratingRandomNumbers.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/obj/Debug/net5.0/11.01_GeneratingRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/obj/Debug/net5.0/11.01_GeneratingRandomNumbers.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/obj/Debug/net5.0/11.01_GeneratingRandomNumbers.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/obj/Debug/net5.0/11.01_GeneratingRandomNumbers.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/obj/Debug/net5.0/11.01_GeneratingRandomNumbers.dll
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/obj/Debug/net5.0/ref/11.01_GeneratingRandomNumbers.dll
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/obj/Debug/net5.0/11.01_GeneratingRandomNumbers.pdb
+/Users/petrstepanenko/Projects/11.01_GeneratingRandomNumbers/11.01_GeneratingRandomNumbers/obj/Debug/net5.0/11.01_GeneratingRandomNumbers.genruntimeconfig.cache

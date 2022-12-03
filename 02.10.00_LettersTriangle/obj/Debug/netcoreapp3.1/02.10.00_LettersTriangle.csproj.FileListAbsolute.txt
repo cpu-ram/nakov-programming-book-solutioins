@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\02.10.00_LettersTriangle\bin\Debug\netcoreapp3.1\02.10.00_LettersTriangle.exe
+C:\Users\User\source\repos\02.10.00_LettersTriangle\bin\Debug\netcoreapp3.1\02.10.00_LettersTriangle.deps.json
+C:\Users\User\source\repos\02.10.00_LettersTriangle\bin\Debug\netcoreapp3.1\02.10.00_LettersTriangle.runtimeconfig.json
+C:\Users\User\source\repos\02.10.00_LettersTriangle\bin\Debug\netcoreapp3.1\02.10.00_LettersTriangle.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.10.00_LettersTriangle\bin\Debug\netcoreapp3.1\02.10.00_LettersTriangle.dll
+C:\Users\User\source\repos\02.10.00_LettersTriangle\bin\Debug\netcoreapp3.1\02.10.00_LettersTriangle.pdb
+C:\Users\User\source\repos\02.10.00_LettersTriangle\obj\Debug\netcoreapp3.1\02.10.00_LettersTriangle.csprojAssemblyReference.cache
+C:\Users\User\source\repos\02.10.00_LettersTriangle\obj\Debug\netcoreapp3.1\02.10.00_LettersTriangle.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.10.00_LettersTriangle\obj\Debug\netcoreapp3.1\02.10.00_LettersTriangle.AssemblyInfo.cs
+C:\Users\User\source\repos\02.10.00_LettersTriangle\obj\Debug\netcoreapp3.1\02.10.00_LettersTriangle.dll
+C:\Users\User\source\repos\02.10.00_LettersTriangle\obj\Debug\netcoreapp3.1\02.10.00_LettersTriangle.pdb

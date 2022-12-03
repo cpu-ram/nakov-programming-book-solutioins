@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\bin\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.exe
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\bin\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.deps.json
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\bin\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.runtimeconfig.json
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\bin\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\bin\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.dll
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\bin\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.pdb
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\obj\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\obj\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\obj\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.AssemblyInfo.cs
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\obj\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.dll
+C:\Users\User\source\repos\02.09.00_Practicing methods of using double quotes\obj\Debug\netcoreapp3.1\02.09.00_Practicing methods of using double quotes.pdb

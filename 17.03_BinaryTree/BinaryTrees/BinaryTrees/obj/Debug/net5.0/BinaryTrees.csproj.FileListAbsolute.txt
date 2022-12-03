@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/bin/Debug/net5.0/BinaryTrees.deps.json
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/bin/Debug/net5.0/BinaryTrees.runtimeconfig.json
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/bin/Debug/net5.0/BinaryTrees.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/bin/Debug/net5.0/BinaryTrees.dll
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/bin/Debug/net5.0/ref/BinaryTrees.dll
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/bin/Debug/net5.0/BinaryTrees.pdb
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.dll
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/obj/Debug/net5.0/ref/BinaryTrees.dll
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.pdb
+/Users/petrstepanenko/Projects/17.03_BinaryTree/BinaryTrees/BinaryTrees/obj/Debug/net5.0/BinaryTrees.genruntimeconfig.cache

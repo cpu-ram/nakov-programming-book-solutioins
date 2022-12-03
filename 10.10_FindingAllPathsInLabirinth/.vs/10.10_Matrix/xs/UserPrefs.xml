@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A4C6F898-4EE0-4521-96AD-449F1FAC036C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Matrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.10_FindingAllPathsInLabirinth/Matrices.cs">
+    <Files>
+      <File FileName="10.10_FindingAllPathsInLabirinth/Matrices.cs" Line="236" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="10.10_Matrix" expanded="True" selected="True">
+            <Node name="Matrix" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>direction</Value>
+          <Value>currentPosition</Value>
+          <Value>resultTuple</Value>
+          <Value>matrix[resultTuple.Item1, resultTuple.Item2]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

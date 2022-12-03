@@ -1,0 +1,12 @@
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/bin/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.deps.json
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/bin/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.runtimeconfig.json
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/bin/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/bin/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.dll
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/bin/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.pdb
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/obj/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/obj/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/obj/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/obj/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.dll
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/obj/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.pdb
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/obj/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.genruntimeconfig.cache
+/Users/petrstepanenko/Projects/08.01_UniversalNumeralConverter/08.01_UniversalNumeralConverter/obj/Release/netcoreapp3.1/08.01_UniversalNumeralConverter.csprojAssemblyReference.cache

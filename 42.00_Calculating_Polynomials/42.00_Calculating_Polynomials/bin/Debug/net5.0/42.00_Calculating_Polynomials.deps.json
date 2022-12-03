@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "42.00_Calculating_Polynomials/1.0.0": {
+        "runtime": {
+          "42.00_Calculating_Polynomials.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "42.00_Calculating_Polynomials/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

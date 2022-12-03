@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\bin\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.exe
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\bin\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.deps.json
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\bin\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.runtimeconfig.json
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\bin\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\bin\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.dll
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\bin\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.pdb
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\obj\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\obj\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\obj\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\obj\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.dll
+C:\Users\User\source\repos\02.03.00_ComparingRealNumbers\02.03.00_ComparingRealNumbers\obj\Debug\netcoreapp3.1\02.03.00_ComparingRealNumbers.pdb

@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/obj/Debug/net5.0/13.09_BinaryEncryptor.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/obj/Debug/net5.0/13.09_BinaryEncryptor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/obj/Debug/net5.0/13.09_BinaryEncryptor.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/obj/Debug/net5.0/13.09_BinaryEncryptor.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/obj/Debug/net5.0/13.09_BinaryEncryptor.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/bin/Debug/net5.0/13.09_BinaryEncryptor.deps.json
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/bin/Debug/net5.0/13.09_BinaryEncryptor.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/bin/Debug/net5.0/13.09_BinaryEncryptor.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/bin/Debug/net5.0/13.09_BinaryEncryptor.dll
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/bin/Debug/net5.0/ref/13.09_BinaryEncryptor.dll
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/bin/Debug/net5.0/13.09_BinaryEncryptor.pdb
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/obj/Debug/net5.0/13.09_BinaryEncryptor.dll
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/obj/Debug/net5.0/ref/13.09_BinaryEncryptor.dll
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/obj/Debug/net5.0/13.09_BinaryEncryptor.pdb
+/Users/petrstepanenko/Projects/13.09_BinaryEncryptor/13.09_BinaryEncryptor/obj/Debug/net5.0/13.09_BinaryEncryptor.genruntimeconfig.cache

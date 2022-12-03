@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\bin\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.exe
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\bin\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.deps.json
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\bin\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.runtimeconfig.json
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\bin\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.runtimeconfig.dev.json
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\bin\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.dll
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\bin\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.pdb
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\obj\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.csprojAssemblyReference.cache
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\obj\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\obj\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.AssemblyInfo.cs
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\obj\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.dll
+C:\Users\User\source\repos\03.16.00_ReplacingBitsUsingCycles\obj\Debug\netcoreapp3.1\03.16.00_ReplacingBitsUsingCycles.pdb

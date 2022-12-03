@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{9F6F6656-02D2-4366-B795-97FBE78C7782}|Default">
+  <MonoDevelop.Ide.ItemProperties.10.03__CalculatingCombinationsWithRepetition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.03_CalculatingCombinationsWithRepetition/Program.cs">
+    <Files>
+      <File FileName="10.03_CalculatingCombinationsWithRepetition/Program.cs" Line="53" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

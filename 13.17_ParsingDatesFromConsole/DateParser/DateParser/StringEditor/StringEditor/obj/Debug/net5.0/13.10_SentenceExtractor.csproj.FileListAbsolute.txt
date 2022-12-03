@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/obj/Debug/net5.0/13.10_SentenceExtractor.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/obj/Debug/net5.0/13.10_SentenceExtractor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/obj/Debug/net5.0/13.10_SentenceExtractor.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/obj/Debug/net5.0/13.10_SentenceExtractor.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/obj/Debug/net5.0/13.10_SentenceExtractor.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/bin/Debug/net5.0/13.10_SentenceExtractor.deps.json
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/bin/Debug/net5.0/13.10_SentenceExtractor.runtimeconfig.json
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/bin/Debug/net5.0/13.10_SentenceExtractor.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/bin/Debug/net5.0/13.10_SentenceExtractor.dll
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/bin/Debug/net5.0/ref/13.10_SentenceExtractor.dll
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/bin/Debug/net5.0/13.10_SentenceExtractor.pdb
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/obj/Debug/net5.0/13.10_SentenceExtractor.dll
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/obj/Debug/net5.0/ref/13.10_SentenceExtractor.dll
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/obj/Debug/net5.0/13.10_SentenceExtractor.pdb
+/Users/petrstepanenko/Projects/13.10_SentenceExtractor/13.10_SentenceExtractor/obj/Debug/net5.0/13.10_SentenceExtractor.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/bin/Debug/net5.0/11.03_FindingDayOfWeek.deps.json
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/bin/Debug/net5.0/11.03_FindingDayOfWeek.runtimeconfig.json
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/bin/Debug/net5.0/11.03_FindingDayOfWeek.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/bin/Debug/net5.0/11.03_FindingDayOfWeek.dll
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/bin/Debug/net5.0/ref/11.03_FindingDayOfWeek.dll
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/bin/Debug/net5.0/11.03_FindingDayOfWeek.pdb
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/obj/Debug/net5.0/11.03_FindingDayOfWeek.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/obj/Debug/net5.0/11.03_FindingDayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/obj/Debug/net5.0/11.03_FindingDayOfWeek.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/obj/Debug/net5.0/11.03_FindingDayOfWeek.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/obj/Debug/net5.0/11.03_FindingDayOfWeek.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/obj/Debug/net5.0/11.03_FindingDayOfWeek.dll
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/obj/Debug/net5.0/ref/11.03_FindingDayOfWeek.dll
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/obj/Debug/net5.0/11.03_FindingDayOfWeek.pdb
+/Users/petrstepanenko/Projects/11.03_FindingDayOfWeek/11.03_FindingDayOfWeek/obj/Debug/net5.0/11.03_FindingDayOfWeek.genruntimeconfig.cache

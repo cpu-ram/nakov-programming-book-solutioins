@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_02._04._00_Declaring_a_hexadecimal_integral</RootNamespace>
+  </PropertyGroup>
+
+</Project>

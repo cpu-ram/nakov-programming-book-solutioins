@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/bin/Debug/net5.0/TextFileEditor.deps.json
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/bin/Debug/net5.0/TextFileEditor.runtimeconfig.json
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/bin/Debug/net5.0/TextFileEditor.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/bin/Debug/net5.0/TextFileEditor.dll
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/bin/Debug/net5.0/ref/TextFileEditor.dll
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/bin/Debug/net5.0/TextFileEditor.pdb
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/obj/Debug/net5.0/TextFileEditor.csprojAssemblyReference.cache
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/obj/Debug/net5.0/TextFileEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/obj/Debug/net5.0/TextFileEditor.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/obj/Debug/net5.0/TextFileEditor.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/obj/Debug/net5.0/TextFileEditor.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/obj/Debug/net5.0/TextFileEditor.dll
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/obj/Debug/net5.0/ref/TextFileEditor.dll
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/obj/Debug/net5.0/TextFileEditor.pdb
+/Users/petrstepanenko/Projects/15.01_TextFileEditor/TextFileEditor/TextFileEditor/obj/Debug/net5.0/TextFileEditor.genruntimeconfig.cache

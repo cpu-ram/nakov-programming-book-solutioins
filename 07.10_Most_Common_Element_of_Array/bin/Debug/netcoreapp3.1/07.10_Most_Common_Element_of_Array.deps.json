@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "07.10_Most_Common_Element_of_Array/1.0.0": {
+        "runtime": {
+          "07.10_Most_Common_Element_of_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07.10_Most_Common_Element_of_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

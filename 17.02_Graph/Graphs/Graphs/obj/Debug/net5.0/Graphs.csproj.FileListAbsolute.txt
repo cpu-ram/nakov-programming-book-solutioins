@@ -1,0 +1,15 @@
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/bin/Debug/net5.0/Graphs.deps.json
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/bin/Debug/net5.0/Graphs.runtimeconfig.json
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/bin/Debug/net5.0/Graphs.runtimeconfig.dev.json
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/bin/Debug/net5.0/Graphs.dll
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/bin/Debug/net5.0/ref/Graphs.dll
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/bin/Debug/net5.0/Graphs.pdb
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/obj/Debug/net5.0/Graphs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/obj/Debug/net5.0/Graphs.AssemblyInfoInputs.cache
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/obj/Debug/net5.0/Graphs.AssemblyInfo.cs
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/obj/Debug/net5.0/Graphs.csproj.CoreCompileInputs.cache
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/obj/Debug/net5.0/Graphs.dll
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/obj/Debug/net5.0/ref/Graphs.dll
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/obj/Debug/net5.0/Graphs.pdb
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/obj/Debug/net5.0/Graphs.genruntimeconfig.cache
+/Users/petrstepanenko/Projects/17.02_Graph/Graphs/Graphs/obj/Debug/net5.0/Graphs.csprojAssemblyReference.cache
